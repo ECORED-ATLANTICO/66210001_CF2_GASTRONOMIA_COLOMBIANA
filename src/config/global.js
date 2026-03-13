@@ -37,7 +37,8 @@ export default {
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Estructura y componentes de una receta estándar profesional',
+            titulo:
+              'Estructura y componentes de una receta estándar profesional',
             hash: 't_1_1',
           },
           {
@@ -404,7 +405,8 @@ export default {
         'Ministerio de Salud. (10 de diciembre de 1997). <em>Decreto 3075 de 1997</em>. Diario Oficial No. 43246. https://www.minsalud.gov.co/Normatividad_Nuevo/DECRETO%203075%20DE%201997.pdf',
     },
     {
-      referencia: 'Roca, J. (2018). <em>El lenguaje de la cocina</em>. Planeta Gastro.',
+      referencia:
+        'Roca, J. (2018). <em>El lenguaje de la cocina</em>. Planeta Gastro.',
     },
     {
       referencia:
@@ -433,7 +435,8 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
           centro: 'Dirección General',
         },
         {
