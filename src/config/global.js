@@ -382,7 +382,8 @@ export default {
     },
     {
       referencia:
-        'Federación Colombiana de Ganaderos (FEDEGÁN). (2023). <em>Cortes de carne bovina y su aplicación</em>. https://www.fedegan.org.co/estadisticas/cortes-carne',
+        'Federación Colombiana de Ganaderos (FEDEGÁN). (2023). <em>Cortes de carne bovina y su aplicación</em>.',
+      link: 'https://www.fedegan.org.co/estadisticas/cortes-carne',
     },
     {
       referencia:
@@ -402,7 +403,9 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Salud. (10 de diciembre de 1997). <em>Decreto 3075 de 1997</em>. Diario Oficial No. 43246. https://www.minsalud.gov.co/Normatividad_Nuevo/DECRETO%203075%20DE%201997.pdf',
+        'Ministerio de Salud. (10 de diciembre de 1997). <em>Decreto 3075 de 1997</em>. Diario Oficial No. 43246.',
+      link:
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/DECRETO%203075%20DE%201997.pdf',
     },
     {
       referencia:
