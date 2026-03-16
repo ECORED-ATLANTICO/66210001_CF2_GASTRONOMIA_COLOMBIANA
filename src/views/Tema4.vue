@@ -203,7 +203,7 @@
       .row.justify-content-center.align-items-center.mb-0
         .col-lg-10.order-lg-1
           .row.bg-color-secundario.align-items-center.justify-content-center
-            .col-md-6.col-lg-4.mb-3.mb-lg-0
+            .col-md-6.col-lg-4.mb-3.mb-lg-0.p-3.p-lg-0
               figure
                 img(src="@/assets/curso/tema3/img22.svg", data-aos="zoom-in")
             .col-lg-8

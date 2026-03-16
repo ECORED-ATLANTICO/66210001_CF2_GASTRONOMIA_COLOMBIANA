@@ -112,10 +112,10 @@
     .row.justify-content-center.mb-3
       .col-md-12.col-lg-9
         .row.mb-0.justify-content-center.align-items-center
-          .col-12.col-md-6.col-lg-3.mb-0.mb-lg-0.order-2.order-md-1.order-lg-1
+          .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0.order-2.order-md-2.order-lg-1
             figure
               img(src="@/assets/curso/tema1/img11.png", data-aos="zoom-in")
-          .col-lg-9.order-1.order-md-2.order-lg-2.mb-4.mb-lg-0
+          .col-lg-9.order-1.order-md-1.order-lg-2.mb-4.mb-lg-0
             p.mb-0(data-aos="fade-right") Interpretar mal un término puede arruinar un plato. Si una receta para "Papas Chorreadas" indica "sofreír la cebolla juliana", el cocinero debe saber que no es lo mismo que picarla gruesa; la juliana se cocinará más rápido y se integrará mejor a la salsa, aportando textura y sabor sin trozos crudos. Este dominio del lenguaje es lo que permite leer entre líneas y ejecutar con la intención culinaria correcta.
 
     separador
