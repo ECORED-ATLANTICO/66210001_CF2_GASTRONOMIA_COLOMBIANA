@@ -198,7 +198,22 @@
               img(src="@/assets/curso/tema4/img14.png", data-aos="zoom-in")
           .col-lg-9.order-1.order-md-2.order-lg-2.mb-4.mb-lg-0
             p.mb-0(data-aos="fade-right") Estas listas transforman procesos complejos en una serie de ítems comprobables, asegurando que nada se pase por alto. Además, una comunicación clara con el resto de la brigada (chef, compañeros de partida, lavaloza) es vital para sincronizar los flujos. Por ejemplo, el cocinero de entradas debe comunicar al de parrilla cuándo empezar a cocinar la proteína del plato principal para que ambos componentes estén listos simultáneamente. Gestionar el flujo también implica saber cuándo "correr" (acelerar la producción) y cuándo "frenar" (esperar órdenes para no sobreproducir). Este ritmo, conocido como "cadencia de servicio", se consolida con una práctica metódica del mise en place y es lo que permite a una cocina colombiana, enfrentada a una oleada de pedidos de bandejas paisa un domingo familiar, entregar excelencia sin colapsar.
- 
+  
+    .container
+      .row.justify-content-center.align-items-center.mb-0
+        .col-lg-10.order-lg-1
+          .row.bg-color-secundario.align-items-center.justify-content-center
+            .col-md-6.col-lg-4.mb-3.mb-lg-0
+              figure
+                img(src="@/assets/curso/tema3/img22.svg", data-aos="zoom-in")
+            .col-lg-8
+              p(data-aos="fade-left").mb-4 Para profundizar en los métodos y técnicas de cocción de nuestra gastronomía nacional, ingrese aquí y escuche este podcast:
+              
+              TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
+                texto="Principios y aplicación del mise en place eficiente"
+                tiempo
+                :audio="require('@/assets/curso/audio/2.mp3')"
+              )
 </template>
 
 <script>

@@ -321,7 +321,7 @@
                 td Carne extremadamente jugosa y deshilachable, salsa gelatinosa.
      
      
-    .container
+    .container.mb-5
       .row.justify-content-center.mb-0
         .col-md-12.col-lg-10
           .row.justify-content-center.align-items-center.bg-color-11
@@ -331,7 +331,21 @@
               figure
                 img(src="@/assets/curso/tema3/img21.svg", data-aos="zoom-in")
                 
-    
+    .container
+      .row.justify-content-center.align-items-center.mb-0
+        .col-lg-10.order-lg-1
+          .row.bg-color-secundario.align-items-center.justify-content-center
+            .col-md-6.col-lg-4.mb-3.mb-lg-0.order-2.order-md-2.order-lg-1
+              figure
+                img(src="@/assets/curso/tema3/img22.svg", data-aos="zoom-in")
+            .col-lg-8.order-1.order-md-1.order-lg-2.p-4.p-lg-0
+              p(data-aos="fade-left").mb-4 Para profundizar en los métodos y técnicas de cocción de nuestra gastronomía nacional, ingrese aquí y escuche este podcast:
+              
+              TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
+                texto="Métodos y técnicas de cocción en la gastronomía colombiana"
+                tiempo
+                :audio="require('@/assets/curso/audio/1.mp3')"
+              )
 </template>
 
 <script>
