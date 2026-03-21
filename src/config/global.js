@@ -221,7 +221,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA2_66210001_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -260,7 +260,7 @@ export default {
         'Método de cocción mixta que combina dorado inicial en grasa y cocción lenta posterior con líquido en recipiente tapado.',
     },
     {
-      termino: 'Brunoise',
+      termino: '<em>Brunoise</em>',
       significado:
         'Corte en pequeños dados de 1 a 2 mm de lado, utilizado para bases de sabor que deben integrarse completamente.',
     },
@@ -270,7 +270,7 @@ export default {
         'Ritmo organizado y sincronizado de producción y despacho de platos durante el servicio.',
     },
     {
-      termino: 'Chiffonade',
+      termino: '<em>Chiffonade</em>',
       significado:
         'Técnica de corte para hojas verdes que consiste en enrollarlas y cortarlas transversalmente en tiras muy finas.',
     },
@@ -340,7 +340,7 @@ export default {
         'Técnica aplicada a piezas magras y grandes de carne en la que se insertan tiras de ingredientes (tocino, zanahoria, ajo) para aportar grasa, jugosidad y sabor durante cocciones prolongadas (horno o braseado).',
     },
     {
-      termino: 'Mise en place',
+      termino: '<em>Mise en place</em>',
       significado:
         'Filosofía y práctica de preparación metódica que organiza ingredientes, utensilios y tareas antes del servicio para garantizar eficiencia.',
     },
@@ -365,7 +365,7 @@ export default {
         'Orden establecido para servir alimentos y bebidas en un evento formal, siguiendo normas de etiqueta y precedencia.',
     },
     {
-      termino: 'Torneado (Tourné)',
+      termino: 'Torneado (<em>Tourné</em>)',
       significado:
         'Técnica de corte para dar forma ovalada y regular, de 5–7 caras a vegetales (p. ej., papa criolla o ñame), buscando uniformidad de cocción y presentación gourmet como guarnición.',
     },
@@ -383,7 +383,7 @@ export default {
     {
       referencia:
         'Federación Colombiana de Ganaderos (FEDEGÁN). (2023). <em>Cortes de carne bovina y su aplicación</em>.',
-      link: 'https://www.fedegan.org.co/estadisticas/cortes-carne',
+      link: 'https://www.fedegan.org.co/cortes-de-carne-de-res-en-colombia',
     },
     {
       referencia:

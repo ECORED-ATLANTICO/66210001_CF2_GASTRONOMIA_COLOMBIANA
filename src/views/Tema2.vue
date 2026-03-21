@@ -44,7 +44,7 @@
           img.mb-3(src="@/assets/curso/tema2/img03.svg", alt="La Figura 2 ilustra las técnicas u operaciones claves en la pre-preparación, primero la selección y clasificación, segundo el pelado y descortezado, tercero el troceado y corte y cuarto la conservación intermedia.").d-none.d-lg-block.d-md-block
           img.mb-3(src="@/assets/curso/tema2/img04.svg", alt="La Figura 2 ilustra las técnicas u operaciones claves en la pre-preparación, primero la selección y clasificación, segundo el pelado y descortezado, tercero el troceado y corte y cuarto la conservación intermedia.").d-block.d-lg-none.d-md-none
         .bg-color-2.p-3
-          p.mb-0.text-small Nota. SENA, 2026.
+          p.mb-0.text-small Nota. SENA, (2026).
                 
 
     .container
@@ -77,23 +77,23 @@
               div(titulo="La juliana").p-4
                 .row.justify-content-center.align-items-center
                   .col-lg-5
-                    p que consiste en cortar el ingrediente en tiras finas y alargadas, con un grosor aproximado de 1-2 mm y una longitud de 4-5 cm. Es ideal para verduras en sopas claras, salteados o como guarnición (Ej.: zanahoria en julianas para una sopa de pasta).
+                    p Que consiste en cortar el ingrediente en tiras finas y alargadas, con un grosor aproximado de 1-2 mm y una longitud de 4-5 cm. Es ideal para verduras en sopas claras, salteados o como guarnición (Ej.: zanahoria en julianas para una sopa de pasta).
                   .col-lg-7
                     figure
                       img(src="@/assets/curso/tema2/img07.png", data-aos="zoom-in")
 
-              div(titulo="La brunoise").p-4
+              div(titulo="La <em>brunoise</em>").p-4
                 .row.justify-content-center.align-items-center
                   .col-lg-5
-                    p es un corte en pequeños dados de 1 a 2 mm de lado, obtenida primero cortando en juliana fina y luego transversalmente. Se utiliza para bases de sabor que deben integrarse completamente y casi fundirse, como en un sofrito o un relleno.
+                    p Es un corte en pequeños dados de 1 a 2 mm de lado, obtenida primero cortando en juliana fina y luego transversalmente. Se utiliza para bases de sabor que deben integrarse completamente y casi fundirse, como en un sofrito o un relleno.
                   .col-lg-7
                     figure
                       img(src="@/assets/curso/tema2/img08.png", data-aos="zoom-in")
                     
-              div(titulo="La chiffonade").p-4
+              div(titulo="La <em>chiffonade</em>").p-4
                 .row.justify-content-center.align-items-center
                   .col-lg-5
-                    p es una técnica específica para hojas verdes (lechuga, espinaca, hierbas aromáticas) que consiste en apilarlas, enrollarlas y cortarlas transversalmente en tiras muy finas, logrando un efecto de "cintas".
+                    p Es una técnica específica para hojas verdes (lechuga, espinaca, hierbas aromáticas) que consiste en apilarlas, enrollarlas y cortarlas transversalmente en tiras muy finas, logrando un efecto de "cintas".
                   .col-lg-7
                     figure
                       img(src="@/assets/curso/tema2/img09.png", data-aos="zoom-in")
@@ -103,7 +103,7 @@
         .col-md-12.col-lg-10
           .row.justify-content-center.align-items-center.bg-color-11
             .col-lg-9.mb-3.mb-lg-0
-              p.mb-0.p-4(data-aos="fade-right") En la cocina colombiana, la chiffonade de cilantro o cebollín es esencial para adornar y aromatizar platos como el sancocho en el momento de servir. Usar un corte incorrecto puede alterar el balance del plato; una cebolla en brunoise en un guiso se deshará y espesará la salsa, mientras que una cebolla en juliana aportará una textura perceptible y un sabor más definido.
+              p.mb-0.p-4(data-aos="fade-right") En la cocina colombiana, la <em>chiffonade</em> de cilantro o cebollín es esencial para adornar y aromatizar platos como el sancocho en el momento de servir. Usar un corte incorrecto puede alterar el balance del plato; una cebolla en brunoise en un guiso se deshará y espesará la salsa, mientras que una cebolla en juliana aportará una textura perceptible y un sabor más definido.
             .col-md-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema2/img10.svg", data-aos="zoom-in")
@@ -131,7 +131,7 @@
 
           .row.justify-content-center.align-items-center.p-2
             .col-lg-5.mb-4.mb-lg-0.mb-3.mb-lg-0
-              p.mb-0(data-aos="fade-right") El deshuesado consiste en retirar los huesos de una pieza de carne o ave sin desestructurarla, permitiendo rellenarla, enrollarla o servirla más fácilmente. Es común en preparaciones como el "Rollo de pechuga relleno" o para obtener carne limpia para guisos.
+              p.mb-0(data-aos="fade-right") El deshuesado consiste en retirar los huesos de una pieza de carne o ave sin desestructurarla, permitiendo rellenarla, enrollarla o servirla más fácilmente. Es común en preparaciones como el rollo de pechuga relleno o para obtener carne limpia para guisos.
 
             .col-md-8.col-lg-7
               figure
@@ -150,7 +150,7 @@
         .col-md-12.col-lg-10
           .row.justify-content-center.align-items-center.bg-color-11
             .col-lg-9.mb-3.mb-lg-0
-              p.mb-0.p-4(data-aos="fade-right") La técnica de mechado es emblemática en platos como la "Sobrebarriga al Horno" de la región Andina. Cada una de estas técnicas exige herramientas adecuadas (cuchillos flexibles para filetear, cuchillos cortos y afilados para deshuesar, mechadoras o cuchillos puntillas) y un conocimiento anatómico básico del animal para trabajar con seguridad y minimizar el desperdicio.
+              p.mb-0.p-4(data-aos="fade-right") La técnica de mechado es emblemática en platos como la sobrebarriga al horno de la región Andina. Cada una de estas técnicas exige herramientas adecuadas (cuchillos flexibles para filetear, cuchillos cortos y afilados para deshuesar, mechadoras o cuchillos puntillas) y un conocimiento anatómico básico del animal para trabajar con seguridad y minimizar el desperdicio.
             .col-md-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema2/img14.svg", data-aos="zoom-in")
@@ -181,7 +181,7 @@
           img.mb-3(src="@/assets/curso/tema2/img16.svg", alt="La figura 3 describe los cuatro principios de la manipulación y conservación previo a la cocción: En primer lugar, el control de temperatura. Los alimentos perecederos ya cortados (especialmente proteínas y vegetales de hoja) son más susceptibles a la contaminación y deterioro, por lo que deben mantenerse refrigerados a ≤4°C hasta su uso, empleando recipientes tapados y limpios.  En segundo lugar, la prevención de la contaminación cruzada es imperativa. Esto implica usar tablas y utensilios diferenciados por color para carnes crudas y vegetales, y nunca almacenar alimentos cocidos sobre crudos.  En tercer lugar, técnicas como el blanqueado (es escaldado rápido en agua hirviendo seguido de un shock en agua helada) se utilizan para fijar el color de los vegetales Ej.: vainitas para ensalada), eliminar sabores amargos o facilitar el pelado.    Por último, el marinado es una operación de pre-acondicionamiento que utiliza medios ácidos, enzimáticos o lácteos para ablandar carnes e infusionar sabor, como en la preparación de una 'Carne a la Llanera', donde la carne se marina con cerveza y especias.").d-none.d-lg-block.d-md-block
           img.mb-3(src="@/assets/curso/tema2/img17.svg", alt="La figura 3 describe los cuatro principios de la manipulación y conservación previo a la cocción: En primer lugar, el control de temperatura. Los alimentos perecederos ya cortados (especialmente proteínas y vegetales de hoja) son más susceptibles a la contaminación y deterioro, por lo que deben mantenerse refrigerados a ≤4°C hasta su uso, empleando recipientes tapados y limpios.  En segundo lugar, la prevención de la contaminación cruzada es imperativa. Esto implica usar tablas y utensilios diferenciados por color para carnes crudas y vegetales, y nunca almacenar alimentos cocidos sobre crudos.  En tercer lugar, técnicas como el blanqueado (es escaldado rápido en agua hirviendo seguido de un shock en agua helada) se utilizan para fijar el color de los vegetales Ej.: vainitas para ensalada), eliminar sabores amargos o facilitar el pelado.    Por último, el marinado es una operación de pre-acondicionamiento que utiliza medios ácidos, enzimáticos o lácteos para ablandar carnes e infusionar sabor, como en la preparación de una 'Carne a la Llanera', donde la carne se marina con cerveza y especias.").d-block.d-lg-none.d-md-none
         .bg-color-2.p-3
-          p.mb-0.text-small Nota. SENA, 2026.
+          p.mb-0.text-small Nota. SENA, (2026).
       
       .col-md-12.col-lg-10.mb-0
         p.mb-0 Una manipulación descuidada en esta etapa puede echar a perder el trabajo de corte más impecable, resultando en pérdida de frescura, desarrollo de olores extraños o, en el peor de los casos, en un riesgo para la salud.

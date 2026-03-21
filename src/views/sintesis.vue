@@ -7,7 +7,7 @@
       .col-md-12.col-lg-12
         .row.justify-content-center.align-items-center.bg-color-11.p-4(data-aos="fade-left")
           .col-lg-9.mb-3.mb-lg-0
-            p.mb-0 El componente formativo Mise en place y técnicas de preparación en la cocina colombiana proporciona al aprendiz un sistema de conocimiento integral que articula la interpretación de recetas, el dominio de técnicas de corte y cocción, la filosofía del mise en place y los principios del protocolo en eventos. Esta estructura progresiva, que va de lo analítico a lo operativo y de lo individual a lo social, capacita al futuro profesional no solo para ejecutar con precisión los sabores de la tradición colombiana, sino para organizar su trabajo con eficiencia y desempeñarse con la distinción que el servicio gastronómico profesional exige, garantizando así la calidad y la excelencia en cada experiencia culinaria.
+            p.mb-0 El componente formativo <em>Mise en place</em> y técnicas de preparación en la cocina colombiana proporciona al aprendiz un sistema de conocimiento integral que articula la interpretación de recetas, el dominio de técnicas de corte y cocción, la filosofía del <em>mise en place</em> y los principios del protocolo en eventos. Esta estructura progresiva, que va de lo analítico a lo operativo y de lo individual a lo social, capacita al futuro profesional no solo para ejecutar con precisión los sabores de la tradición colombiana, sino para organizar su trabajo con eficiencia y desempeñarse con la distinción que el servicio gastronómico profesional exige, garantizando así la calidad y la excelencia en cada experiencia culinaria.
           .col-auto.col-lg-3
             figure
               img.d-none.d-lg-flex(src="@/assets/curso/img02.svg", data-aos="zoom-in")

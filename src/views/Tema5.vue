@@ -15,7 +15,7 @@
               img(src="@/assets/curso/tema5/img01.png", data-aos="zoom-in")
           .col-lg-9
             
-            p.mb-3(data-aos="fade-right") El servicio de alimentos trasciende la cocina y se convierte en una experiencia integral donde la presentación, la secuencia y la conducta son tan importantes como el sabor. Este capítulo eleva la aplicación del mise en place desde la organización de la partida a la planificación y ejecución de un evento completo, incorporando las normas de protocolo y etiqueta que rigen los actos sociales formales e informales. 
+            p.mb-3(data-aos="fade-right") El servicio de alimentos trasciende la cocina y se convierte en una experiencia integral donde la presentación, la secuencia y la conducta son tan importantes como el sabor. Este capítulo eleva la aplicación del <em> mise en place</em> desde la organización de la partida a la planificación y ejecución de un evento completo, incorporando las normas de protocolo y etiqueta que rigen los actos sociales formales e informales. 
             p.mb-0(data-aos="fade-right") En la gastronomía colombiana, donde la hospitalidad es un valor central, saber recibir, servir y crear un ambiente apropiado es una competencia profesional distintiva. Ya sea un almuerzo de negocios en Bogotá, una cena de gala en Cartagena o una celebración comunitaria en el eje cafetero, el dominio de estos principios permite al profesional garantizar no solo la satisfacción culinaria, sino también la comodidad, el orden y el decoro que hacen memorable cualquier ocasión. Este conocimiento cierra el ciclo, conectando la técnica culinaria con el arte de servir.
             
     separador
@@ -69,7 +69,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema5/img05.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 El espacio físico es el escenario del evento y su disposición debe planificarse en función del objetivo, el número de invitados y el tipo de servicio. La organización del salón considera el flujo de las personas: ubicación de la entrada principal, área de recepción (welcome party), disposición del mobiliario (mesas, sillas, podio, barras) y rutas de acceso para el personal de servicio y de emergencia. La disposición de las mesas varía: para una cena formal con servicio a la francesa (platos servidos por el mesero), se prefieren mesas redondas u ovaladas que fomenten la conversación; para un almuerzo de negocios o un banquete, son comunes las mesas rectangulares o en forma de "U" o "herradura" que facilitan la visibilidad hacia un podio; para un cóctel o standing reception, se utilizan mesas altas dispersas y se prioriza el servicio de pie. 
+            p.mb-0 El espacio físico es el escenario del evento y su disposición debe planificarse en función del objetivo, el número de invitados y el tipo de servicio. La organización del salón considera el flujo de las personas: ubicación de la entrada principal, área de recepción (<em>welcome party</em>), disposición del mobiliario (mesas, sillas, podio, barras) y rutas de acceso para el personal de servicio y de emergencia. La disposición de las mesas varía: para una cena formal con servicio a la francesa (platos servidos por el mesero), se prefieren mesas redondas u ovaladas que fomenten la conversación; para un almuerzo de negocios o un banquete, son comunes las mesas rectangulares o en forma de U o herradura que facilitan la visibilidad hacia un podio; para un cóctel o <em>standing reception</em>, se utilizan mesas altas dispersas y se prioriza el servicio de pie. 
         
     .row.justify-content-center.mb-3
       .col-md-12.col-lg-10
@@ -86,7 +86,7 @@
     .row.justify-content-center
       .col-md-12.col-lg-12
         #t_5_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 5.3. Elementos de mise en place para servicio formal y de banquete
+          h2 5.3. Elementos de <em> mise en place</em> para servicio formal y de banquete
 
     .container.justify-content-center.mb-5
       .col-md-12.col-lg-12
@@ -99,14 +99,14 @@
               .col-12.col-lg-auto.mb-4.mb-lg-2
                 img.d-lg-flex.d-none(src="@/assets/curso/tema5/img13.svg").mx-auto
               .col-12.col-lg-12
-                p.mb-0 El mise en place en el comedor o salón de eventos es tan crítico como en la cocina. Consiste en la preparación meticulosa de todos los elementos que intervendrán en el servicio antes de la llegada de los invitados. Esto incluye, en primer lugar, la lencería: manteles limpios, planchados y correctamente colocados (las costuras ocultas, los bordes colgando a la misma distancia). Luego, la vajilla: platos base, platos presentación, platos pan, platillos para taza, todos libres de polvo y alineados con precisión (generalmente a un dedo del borde de la mesa). Los cubiertos se colocan en el orden de uso, de afuera hacia adentro, y a una distancia específica del plato. Las copas se disponen en orden decreciente de tamaño (agua, vino tinto, vino blanco, champagne) formando una hilera o un triángulo. 
+                p.mb-0 El <em> mise en place</em> en el comedor o salón de eventos es tan crítico como en la cocina. Consiste en la preparación meticulosa de todos los elementos que intervendrán en el servicio antes de la llegada de los invitados. Esto incluye, en primer lugar, la lencería: manteles limpios, planchados y correctamente colocados (las costuras ocultas, los bordes colgando a la misma distancia). Luego, la vajilla: platos base, platos presentación, platos pan, platillos para taza, todos libres de polvo y alineados con precisión (generalmente a un dedo del borde de la mesa). Los cubiertos se colocan en el orden de uso, de afuera hacia adentro, y a una distancia específica del plato. Las copas se disponen en orden decreciente de tamaño (agua, vino tinto, vino blanco, champagne) formando una hilera o un triángulo. 
 
     
     .row.justify-content-center.mb-5
       .col-md-12.col-lg-10
         .row.mb-0.justify-content-center.align-items-center
           .col-lg-9.order-1.order-md-1.order-lg-1.mb-4.mb-lg-0
-            p.mb-0(data-aos="fade-right") Los accesorios como saleros, pimenteros, porta menús, velas y decoración deben estar impecables y en su lugar. Un elemento clave es el carro de servicio o guéridon, que debe estar equipado con todos los utensilios necesarios para el servicio (cucharas y tenedores de servicio, pinzas, cuchillos trinchantes, salseras, quemadores) y estacionado en un lugar discreto pero accesible. La verificación final de este mise en place de sala es lo que permite que, una vez iniciado el evento, el servicio fluya con discreción y eficiencia, sin que los comensales perciban esfuerzo o desorganización.
+            p.mb-0(data-aos="fade-right") Los accesorios como saleros, pimenteros, porta menús, velas y decoración deben estar impecables y en su lugar. Un elemento clave es el carro de servicio o guéridon, que debe estar equipado con todos los utensilios necesarios para el servicio (cucharas y tenedores de servicio, pinzas, cuchillos trinchantes, salseras, quemadores) y estacionado en un lugar discreto pero accesible. La verificación final de este <em> mise en place</em> de sala es lo que permite que, una vez iniciado el evento, el servicio fluya con discreción y eficiencia, sin que los comensales perciban esfuerzo o desorganización.
           .col-12.col-md-6.col-lg-3.mb-3.mb-lg-0.order-2.order-md-1.order-lg-1
             figure
               img(src="@/assets/curso/tema5/img08.png", data-aos="zoom-in")
@@ -118,7 +118,7 @@
         #t_5_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 5.4. El rol del anfitrión y la secuencia de servicio en un evento formal
 
-        p.mb-0El anfitrión (que puede ser el cliente o un representante de la empresa organizadora) es el director de la ceremonia, y el personal de servicio actúa para facilitar su rol. El profesional gastronómico debe conocer la secuencia de servicio estándar para poder anticiparse y ejecutarla sin necesidad de órdenes constantes.
+        p.mb-0El El anfitrión (que puede ser el cliente o un representante de la empresa organizadora) es el director de la ceremonia, y el personal de servicio actúa para facilitar su rol. El profesional gastronómico debe conocer la secuencia de servicio estándar para poder anticiparse y ejecutarla sin necesidad de órdenes constantes.
   
   
     .row.justify-content-center.mb-4
@@ -131,7 +131,7 @@
           img.mb-3(src="@/assets/curso/tema5/img09.svg", alt="La figura 5 describe el orden lógico de la secuencia básica para una cena formal.").d-none.d-lg-block.d-md-block
           img.mb-3(src="@/assets/curso/tema5/img10.svg", alt="La figura 5 describe el orden lógico de la secuencia básica para una cena formal.").d-block.d-lg-none.d-md-none
         .bg-color-2.p-3
-          p.mb-0.text-small Nota. SENA, 2026.
+          p.mb-0.text-small Nota. SENA, (2026).
 
     .row.justify-content-center.mb-3
       .col-md-12.col-lg-10
@@ -146,7 +146,7 @@
       .col-md-12.col-lg-12
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 
-            b Tabla 5. 
+            b Tabla 4. 
             span Protocolo básico de servicio en mesa para evento formal tipo cena de gala
         .tabla-a.color-acento-contenido(data-aos="zoom-in")
           table

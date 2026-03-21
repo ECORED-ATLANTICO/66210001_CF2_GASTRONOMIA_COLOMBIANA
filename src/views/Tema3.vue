@@ -45,7 +45,7 @@
               .col-lg-10.order-lg-2
                 p.mb-3 El medio acuoso o también como métodos por expansión, es aquel que busca transferir los sabores del alimento al medio de cocción, resultando en caldos, jugos y texturas tiernas. 
                 p.mb-3 Aquí el calor se aplica de manera húmeda y a temperaturas más moderadas. Pertenece a este grupo hervir, escalfar, cocer al vapor y confitar. 
-                p.mb-0 Se emplean para alimentos que se desean extremadamente tiernos, para extraer sabores (como en un caldo para sopa) o para cocinar ingredientes delicados, como un "Pescado escalfado en leche de coco".
+                p.mb-0 Se emplean para alimentos que se desean extremadamente tiernos, para extraer sabores (como en un caldo para sopa) o para cocinar ingredientes delicados, como un pescado escalfado en leche de coco.
           
           .tarjeta.color-acento-botones--borde.p-4(titulo="Medio graso:")
             .row.justify-content-center.align-items-center
@@ -54,7 +54,7 @@
                   img(src="@/assets/curso/tema3/img04.svg", data-aos="zoom-in", style="max-width: 100px;").mx-auto
               .col-lg-10.order-lg-2
                 p.mb-3 El medio graso o también conocido como métodos mixtos, combinan ambas lógicas: inician con un paso de concentración (dorar) y continúan con uno de expansión (cocinar en líquido). El guisado, el estofado y el braseado son sus máximos exponentes. 
-                p.mb-0 Estas técnicas son el alma de la cocina de cacerola colombiana, perfectas para cortes de carne menos tiernos pero llenos de sabor, que mediante una cocción prolongada y a baja temperatura en un medio sabroso, se vuelven melosos y profundos, como en un "Estofado de pollo" o un "Brasato de cerdo".
+                p.mb-0 Estas técnicas son el alma de la cocina de cacerola colombiana, perfectas para cortes de carne menos tiernos pero llenos de sabor, que mediante una cocción prolongada y a baja temperatura en un medio sabroso, se vuelven melosos y profundos, como en un estofado de pollo o un brasato de cerdo.
           
           .tarjeta.color-acento-botones--borde.p-4(titulo="Medio aéreo:")
             .row.justify-content-center.align-items-center
@@ -63,7 +63,7 @@
                   img(src="@/assets/curso/tema3/img05.svg", data-aos="zoom-in", style="max-width: 100px;").mx-auto
               .col-lg-10.order-lg-2
                 p.mb-3 El medio aéreo o también conocido como métodos por concentración, tiene como objetivo sellar y retener los jugos internos del alimento, aplicando calor intenso y seco que forma una costra externa. 
-                p.mb-0 En esta categoría se incluyen técnicas como asar a la parrilla, hornear, saltear y freír. Son ideales para piezas tiernas de carne, pescados grasos o vegetales que se desean con textura externa crujiente e interior jugoso, como un corte de "Lomo de res a la parrilla" o unas "Patacones".
+                p.mb-0 En esta categoría se incluyen técnicas como asar a la parrilla, hornear, saltear y freír. Son ideales para piezas tiernas de carne, pescados grasos o vegetales que se desean con textura externa crujiente e interior jugoso, como un corte de lomo de res a la parrilla o unos patacones.
 
     separador
 
@@ -80,15 +80,17 @@
         SlyderA(tipo="b").bg-color-white.p-3.p-lg-4.tarjeta
           .row.justify-content-center.align-items-center.p-2
             .col-lg-5.mb-4.mb-lg-0.mb-3.mb-lg-0
-              p.mb-0(data-aos="fade-right") <b>Rehogar o sofreír</b> es la técnica base de innumerables preparaciones colombianas. Consiste en cocinar a fuego medio-bajo ingredientes picados finamente (cebolla, ajo, tomate, pimentón) en una cantidad moderada de grasa, con el objetivo de que suelten sus jugos, se ablanden y sus azúcares se caramelicen lentamente sin dorarse en exceso, creando la base de sabor conocida como "hogao" o "refrito". Es el primer paso para guisos, arroces y salsas. 
+              h4.mb-3 Rehogado
+              p.mb-0(data-aos="fade-right") <b>Rehogar o sofreír</b> es la técnica base de innumerables preparaciones colombianas. Consiste en cocinar a fuego medio-bajo ingredientes picados finamente (cebolla, ajo, tomate, pimentón) en una cantidad moderada de grasa, con el objetivo de que suelten sus jugos, se ablanden y sus azúcares se caramelicen lentamente sin dorarse en exceso, creando la base de sabor conocida como hogao o refrito. Es el primer paso para guisos, arroces y salsas. 
 
             .col-md-8.col-lg-7
               figure
-                img(src="@/assets/curso/tema3/img06.png", alt="Rehogar o sofreír").mx-auto
+                img(src="@/assets/curso/tema3/img06.png", alt="Rehogado").mx-auto
           
           .row.justify-content-center.align-items-center.p-2
             .col-lg-5.mb-4.mb-lg-0.mb-3.mb-lg-0
-              p.mb-0(data-aos="fade-right") <b>Saltear</b> es una técnica de cocción rápida a fuego alto, con muy poco medio graso y constante movimiento del alimento (del francés sauter, saltar). Su objetivo es sellar, dorar ligeramente y cocinar al dente, preservando color, textura y nutrientes. Es ideal para vegetales como las vainitas, los champiñones o trozos pequeños de pollo o carne, resultando en platos como un "Salteado de carne con verduras".
+              h4.mb-3 Salteado
+              p.mb-0(data-aos="fade-right") <b>Saltear</b> es una técnica de cocción rápida a fuego alto, con muy poco medio graso y constante movimiento del alimento (del francés <em>sauter</em>, saltar). Su objetivo es sellar, dorar ligeramente y cocinar al dente, preservando color, textura y nutrientes. Es ideal para vegetales como las vainitas, los champiñones o trozos pequeños de pollo o carne, resultando en platos como un salteado de carne con verduras.
 
             .col-md-8.col-lg-7
               figure
@@ -96,6 +98,7 @@
           
           .row.justify-content-center.align-items-center.p-2
             .col-lg-5.mb-4.mb-lg-0.mb-3.mb-lg-0
+              h4.mb-3 Fritura
               p.mb-0(data-aos="fade-right") La <b>fritura</b> sumerge el alimento completamente en un medio graso abundante y a alta temperatura (entre 160°C y 180°C). El calor intenso y uniforme crea una costra crujiente y dorada instantáneamente, mientras sella el interior, cocinándolo con su propio vapor.
 
             .col-md-8.col-lg-7
@@ -107,7 +110,7 @@
         .col-md-12.col-lg-10
           .row.justify-content-center.align-items-center.bg-color-11
             .col-lg-9.mb-3.mb-lg-0
-              p.mb-0.p-4(data-aos="fade-right")  En Colombia, la fritura es una técnica emblemática, presente en los "Aborrajados", las "Arepas de Huevo", las "Empanadas" y los "Patacones". La clave para una fritura perfecta es controlar la temperatura del aceite; si está muy baja, el alimento lo absorbe y queda grasoso; si está muy alta, se quema por fuera y queda crudo por dentro.
+              p.mb-0.p-4(data-aos="fade-right")  En Colombia, la fritura es una técnica emblemática, presente en los aborrajados, las arepas de huevo, las empanadas y los patacones. La clave para una fritura perfecta es controlar la temperatura del aceite; si está muy baja, el alimento lo absorbe y queda grasoso; si está muy alta, se quema por fuera y queda crudo por dentro.
             .col-md-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema3/img09.svg", data-aos="zoom-in")
@@ -132,7 +135,7 @@
               div(titulo="Hervir").p-4
                 .row.justify-content-center.align-items-center
                   .col-lg-7.mb-4.mb-lg-0
-                    p.mb-0 Hervir implica sumergir el alimento en agua o un caldo a 100°C, con burbujas constantes. Es un método de expansión agresivo, ideal para cocinar pastas, granos (arroz, lentejas) y para ablandar rápidamente tubérculos duros (yuca, papa para sancocho). Sin embargo, puede lixiviar (extraer) nutrientes y sabores solubles en el agua, por lo que ese líquido de cocción a menudo se aprovecha, como en el caldo de un "Sancocho". 
+                    p.mb-0 implica sumergir el alimento en agua o un caldo a 100°C, con burbujas constantes. Es un método de expansión agresivo, ideal para cocinar pastas, granos (arroz, lentejas) y para ablandar rápidamente tubérculos duros (yuca, papa para sancocho). Sin embargo, puede lixiviar (extraer) nutrientes y sabores solubles en el agua, por lo que ese líquido de cocción a menudo se aprovecha, como en el caldo de un "Sancocho". 
                   .col-lg-5
                     figure
                       img(src="@/assets/curso/tema3/img11.png", data-aos="zoom-in")
@@ -140,23 +143,23 @@
               div(titulo="Escalfar").p-4
                 .row.justify-content-center.align-items-center
                   .col-lg-7.mb-4.mb-lg-0
-                    p.mb-0 Escalfar es una cocción suave en un líquido (agua, caldo, leche) que se mantiene justo por debajo del punto de ebullición, entre 80°C y 95°C, con temblores apenas perceptibles en la superficie. Es perfecto para alimentos delicados cuya textura se dañaría con el hervor violento, como los huevos (huevos escalfados), los pescados de carne blanda ("Pescado escalfado en vino blanco") o algunas frutas.
+                    p.mb-0 es una cocción suave en un líquido (agua, caldo, leche) que se mantiene justo por debajo del punto de ebullición, entre 80°C y 95°C, con temblores apenas perceptibles en la superficie. Es perfecto para alimentos delicados cuya textura se dañaría con el hervor violento, como los huevos (huevos escalfados), los pescados de carne blanda ("Pescado escalfado en vino blanco") o algunas frutas.
                   .col-lg-5
                     figure
                       img(src="@/assets/curso/tema3/img12.png", data-aos="zoom-in")
               
-              div(titulo="Cocción al vapor").p-4
+              div(titulo="La cocción al vapor").p-4
                 .row.justify-content-center.align-items-center
                   .col-lg-7.mb-4.mb-lg-0
-                    p.mb-0 La cocción al vapor se realiza suspendiendo el alimento sobre un líquido hirviendo, sin contacto directo, de modo que se cocina por la acción del vapor caliente. Este método preserva al máximo los nutrientes, el color, la forma y el sabor original de los alimentos, ya que no hay lixiviación. Es excelente para vegetales como el brócoli, la coliflor o el pescado envuelto en hoja de plátano, una técnica ancestral que aún se practica en regiones como el Pacífico colombiano. 
+                    p.mb-0 se realiza suspendiendo el alimento sobre un líquido hirviendo, sin contacto directo, de modo que se cocina por la acción del vapor caliente. Este método preserva al máximo los nutrientes, el color, la forma y el sabor original de los alimentos, ya que no hay lixiviación. Es excelente para vegetales como el brócoli, la coliflor o el pescado envuelto en hoja de plátano, una técnica ancestral que aún se practica en regiones como el Pacífico colombiano. 
                   .col-lg-5
                     figure
                       img(src="@/assets/curso/tema3/img13.png", data-aos="zoom-in")
               
-              div(titulo="Escaldar o blanqueado").p-4
+              div(titulo="El escaldar o blanqueado").p-4
                 .row.justify-content-center.align-items-center
                   .col-lg-7.mb-4.mb-lg-0
-                    p.mb-0 El escaldar o blanqueado, mencionado en el capítulo anterior, es una variación breve del hervido (30 segundos a 2 minutos) seguida de un enfriamiento brusco, cuyo objetivo no es cocinar completamente, sino fijar colores, eliminar sabores amargos o ablandar pieles.
+                    p.mb-0 mencionado en el capítulo anterior, es una variación breve del hervido (30 segundos a 2 minutos) seguida de un enfriamiento brusco, cuyo objetivo no es cocinar completamente, sino fijar colores, eliminar sabores amargos o ablandar pieles.
                   .col-lg-5
                     figure
                       img(src="@/assets/curso/tema3/img14.png", data-aos="zoom-in")
@@ -178,14 +181,16 @@
               figure
                 img(src="@/assets/curso/tema3/img15.png", alt="Carne a la parrilla")
               .bg-color-5.p-4.flex-grow-1
-                p.mb-0 Hornear es la cocción por convección de aire caliente que rodea al alimento dentro de un espacio cerrado (horno). El calor seco y constante permite una cocción pareja y el desarrollo de reacciones de dorado y caramelización en la superficie. Es fundamental para panes, pasteles, y en la cocina salada para platos como la "Sobrebarriga al horno", las "Papas al horno" o un "Pastel de pollo". 
+                h4.mb-3 Al horno
+                p.mb-0 es la cocción por convección de aire caliente que rodea al alimento dentro de un espacio cerrado (horno). El calor seco y constante permite una cocción pareja y el desarrollo de reacciones de dorado y caramelización en la superficie. Es fundamental para panes, pasteles, y en la cocina salada para platos como la sobrebarriga al horno, las papas al horno o un pastel de pollo. 
 
           .col-md-12.col-lg-6.mb-4.mb-lg-0
             .tarjeta-c.h-100.d-flex.flex-column
               figure
                 img(src="@/assets/curso/tema3/img16.png", alt="Procesos térmicos")
               .bg-color-5.p-4.flex-grow-1
-                p.mb-0 Gratinar es una técnica específica que aplica un calor intenso y directo (generalmente de la parrilla superior del horno o de un soplete) sobre la superficie de un alimento, con el objetivo de dorar y formar una costra crujiente, generalmente sobre una capa de queso, pan rallado o bechamel. El "Cerdo en salsa de champiñones gratinado" es un ejemplo de su aplicación. 
+                h4.mb-3 La parrilla
+                p.mb-0 es una técnica específica que aplica un calor intenso y directo (generalmente de la parrilla superior del horno o de un soplete) sobre la superficie de un alimento, con el objetivo de dorar y formar una costra crujiente, generalmente sobre una capa de queso, pan rallado o bechamel. El cerdo en salsa de champiñones gratinado es un ejemplo de su aplicación. 
     
     .row.justify-content-center.mb-3
       .col-md-12.col-lg-10
@@ -194,7 +199,8 @@
             figure
               img(src="@/assets/curso/tema3/img17.png", data-aos="zoom-in")
           .col-lg-9.order-1.order-md-2.order-lg-2.mb-4.mb-lg-0
-            p.mb-0(data-aos="fade-right") Asar es un término amplio que puede referirse a la cocción por radiación directa de una fuente de calor (asador, parrilla, brasas) o por convección de aire caliente en horno para piezas grandes. En su versión más emblemática, como el "Asado a la llanera", el alimento (generalmente una pieza grande de carne) se cuece lentamente a una distancia prudente de las brasas, girándose para lograr una costra sellada y un interior jugoso y cocido uniformemente. Este método imparte un sabor ahumado único y es central en la identidad gastronómica de la Orinoquía.
+            h4.mb-3 Asado a la sal
+            p.mb-0(data-aos="fade-right") es un término amplio que puede referirse a la cocción por radiación directa de una fuente de calor (asador, parrilla, brasas) o por convección de aire caliente en horno para piezas grandes. En su versión más emblemática, como el asado a la llanera, el alimento (generalmente una pieza grande de carne) se cuece lentamente a una distancia prudente de las brasas, girándose para lograr una costra sellada y un interior jugoso y cocido uniformemente. Este método imparte un sabor ahumado único y es central en la identidad gastronómica de la Orinoquía.
 
     separador
 
@@ -211,7 +217,7 @@
         SlyderA(tipo="b").bg-color-white.p-3.p-lg-4.tarjeta
           .row.justify-content-center.align-items-center.p-2
             .col-lg-5.mb-4.mb-lg-0.mb-3.mb-lg-0
-              p.mb-0(data-aos="fade-right") El <b>guisado</b> es un proceso donde los ingredientes, previamente dorados o no, se cocinan en una cantidad moderada de líquido (caldo, salsa, agua) a fuego lento o medio, tapados. El líquido hierve suavemente y reduce gradualmente, espesándose. Es el método clásico para preparaciones como el "Guiso de pollo con papas" o el "Fríjol antioqueño".
+              p.mb-0(data-aos="fade-right") El <b>guisado</b> es un proceso donde los ingredientes, previamente dorados o no, se cocinan en una cantidad moderada de líquido (caldo, salsa, agua) a fuego lento o medio, tapados. El líquido hierve suavemente y reduce gradualmente, espesándose. Es el método clásico para preparaciones como el guiso de pollo con papas o el fríjol antioqueño.
 
             .col-md-8.col-lg-7
               figure
@@ -219,7 +225,7 @@
           
           .row.justify-content-center.align-items-center.p-2
             .col-lg-5.mb-4.mb-lg-0.mb-3.mb-lg-0
-              p.mb-0(data-aos="fade-right") El <b>estofado</b> es una variante del guisado, pero con una diferencia clave: se realiza a fuego muy bajo, con el líquido apenas burbujeando, y preferiblemente en un recipiente de fondo grueso y con tapa hermética (como una olla de cocción lenta o dutch oven). Esto crea un ambiente de cocción húmeda y uniforme que deshace los tejidos conectivos de la carne sin endurecer sus fibras, resultando en una textura exquisitamente tierna. El "Estofado de res con verduras" es un ejemplo claro. 
+              p.mb-0(data-aos="fade-right") El <b>estofado</b> es una variante del guisado, pero con una diferencia clave: se realiza a fuego muy bajo, con el líquido apenas burbujeando, y preferiblemente en un recipiente de fondo grueso y con tapa hermética (como una olla de cocción lenta o <em>dutch oven</em>). Esto crea un ambiente de cocción húmeda y uniforme que deshace los tejidos conectivos de la carne sin endurecer sus fibras, resultando en una textura exquisitamente tierna. El estofado de res con verduras es un ejemplo claro. 
 
             .col-md-8.col-lg-7
               figure
@@ -227,7 +233,7 @@
           
           .row.justify-content-center.align-items-center.p-2
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
-              p.mb-0(data-aos="fade-right") El <b>braseado</b> es la técnica más elaborada de esta familia. Consiste en dorar profundamente una pieza grande de carne en grasa, luego agregar un líquido aromático (vino, caldo) que llegue hasta la mitad o un tercio de la pieza, tapar y cocinar a fuego muy bajo en el horno o en la estufa durante varias horas. La pieza se cuece parcialmente sumergida y parcialmente al vapor, logrando una carne increíblemente jugosa y deshilachado, y una salsa concentrada y gelatinosa. Platos como la "Lagarta braseada" o ciertas preparaciones de cerdo para lechona aplican esta técnica. 
+              p.mb-0(data-aos="fade-right") El <b>braseado</b> es la técnica más elaborada de esta familia. Consiste en dorar profundamente una pieza grande de carne en grasa, luego agregar un líquido aromático (vino, caldo) que llegue hasta la mitad o un tercio de la pieza, tapar y cocinar a fuego muy bajo en el horno o en la estufa durante varias horas. La pieza se cuece parcialmente sumergida y parcialmente al vapor, logrando una carne increíblemente jugosa y deshilachado, y una salsa concentrada y gelatinosa. Platos como la lagarta braseada o ciertas preparaciones de cerdo para lechona aplican esta técnica. 
 
             .col-md-8.col-lg-5
               figure
@@ -243,10 +249,11 @@
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 
             b Tabla 3. 
-            span Clasificación basada en el modelo de McGee (2004) y Gisslen (2015). Los datos de temperatura son referenciales para el servicio de alimentos. Las aplicaciones colombianas se derivan del análisis de recetas regionales de los documentos de apoyo del SENA y técnicas tradicionales documentadas.
+            span Métodos de cocción: clasificación, medios, temperaturas y aplicación en gastronomía colombiana
 
         .tabla-a.color-acento-contenido(data-aos="zoom-in")
           table
+            caption Nota. Clasificación basada en el modelo de McGee (2004) y Gisslen (2015). Los datos de temperatura son referenciales para el servicio de alimentos. Las aplicaciones colombianas se derivan del análisis de recetas regionales de los documentos de apoyo del SENA y técnicas tradicionales documentadas.
             thead
               tr
                 th Método
