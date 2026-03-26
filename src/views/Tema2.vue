@@ -119,8 +119,8 @@
 
 
     .bg-full-width.bg-fondo-5.tarjeta.mb-5
-      .p-4.px-lg-2
-        SlyderA(tipo="b").bg-color-white.p-3.p-lg-4.tarjeta
+      .p-sm-0.py-md-4.p-lg-4.px-lg-2
+        SlyderA(tipo="b").bg-color-white.p-0.p-lg-4.tarjeta
           .row.justify-content-center.align-items-center.p-2
             .col-lg-5.mb-4.mb-lg-0.mb-3.mb-lg-0
               p.mb-0(data-aos="fade-right") El fileteado es el proceso de extraer los lomos o filetes libres de espinas, piel y grasa excesiva de un pescado o de una pieza de carne. En el contexto colombiano, es una técnica crucial para preparar pescados como la mojarra para fritura o el bagre para viudo, donde la presentación de un filete limpio y entero es fundamental. 

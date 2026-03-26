@@ -21,7 +21,7 @@
         .row.mb-0.justify-content-center.align-items-center
           .col-12.col-md-6.col-lg-3.mb-3.mb-lg-0.order-2.order-md-1.order-lg-1
             figure
-              img(src="@/assets/curso/tema3/img02.png", data-aos="zoom-in")
+              img(src="@/assets/curso/tema3/img02.png", data-aos="fade-right")
           .col-lg-9.order-1.order-md-2.order-lg-2.mb-4.mb-lg-0
             p.mb-0(data-aos="fade-right") En la gastronomía colombiana, donde convergen técnicas ancestrales con influencias globales, el dominio de estos métodos es lo que permite respetar la esencia de un ingrediente regional mientras se logra el punto de cocción perfecto. Desde el rápido salteado que preserva la crujiente textura de un vegetal andino, hasta la lenta cocción en olla de barro que ablanda y amalgama los sabores de un sancocho costeño, cada técnica es una herramienta con un propósito definido. Comprender su clasificación, medios y efectos es lo que separa al cocinero intuitivo del chef técnico.
 
@@ -41,7 +41,7 @@
             .row.justify-content-center.align-items-center
               .col-12.col-md-6.col-lg-2.mb-3.mb-lg-0.order-lg-1
                 figure
-                  img(src="@/assets/curso/tema3/img03.svg", data-aos="zoom-in", style="max-width: 100px;").mx-auto
+                  img(src="@/assets/curso/tema3/img03.svg", data-aos="fade-right", style="max-width: 100px;").mx-auto
               .col-lg-10.order-lg-2
                 p.mb-3 El medio acuoso o también como métodos por expansión, es aquel que busca transferir los sabores del alimento al medio de cocción, resultando en caldos, jugos y texturas tiernas. 
                 p.mb-3 Aquí el calor se aplica de manera húmeda y a temperaturas más moderadas. Pertenece a este grupo hervir, escalfar, cocer al vapor y confitar. 
@@ -51,7 +51,7 @@
             .row.justify-content-center.align-items-center
               .col-12.col-md-6.col-lg-2.mb-3.mb-lg-0.order-lg-1
                 figure
-                  img(src="@/assets/curso/tema3/img04.svg", data-aos="zoom-in", style="max-width: 100px;").mx-auto
+                  img(src="@/assets/curso/tema3/img04.svg", data-aos="fade-right", style="max-width: 100px;").mx-auto
               .col-lg-10.order-lg-2
                 p.mb-3 El medio graso o también conocido como métodos mixtos, combinan ambas lógicas: inician con un paso de concentración (dorar) y continúan con uno de expansión (cocinar en líquido). El guisado, el estofado y el braseado son sus máximos exponentes. 
                 p.mb-0 Estas técnicas son el alma de la cocina de cacerola colombiana, perfectas para cortes de carne menos tiernos pero llenos de sabor, que mediante una cocción prolongada y a baja temperatura en un medio sabroso, se vuelven melosos y profundos, como en un estofado de pollo o un brasato de cerdo.
@@ -60,7 +60,7 @@
             .row.justify-content-center.align-items-center
               .col-12.col-md-6.col-lg-2.mb-3.mb-lg-0.order-lg-1
                 figure
-                  img(src="@/assets/curso/tema3/img05.svg", data-aos="zoom-in", style="max-width: 100px;").mx-auto
+                  img(src="@/assets/curso/tema3/img05.svg", data-aos="fade-right", style="max-width: 100px;").mx-auto
               .col-lg-10.order-lg-2
                 p.mb-3 El medio aéreo o también conocido como métodos por concentración, tiene como objetivo sellar y retener los jugos internos del alimento, aplicando calor intenso y seco que forma una costra externa. 
                 p.mb-0 En esta categoría se incluyen técnicas como asar a la parrilla, hornear, saltear y freír. Son ideales para piezas tiernas de carne, pescados grasos o vegetales que se desean con textura externa crujiente e interior jugoso, como un corte de lomo de res a la parrilla o unos patacones.
@@ -76,8 +76,8 @@
 
 
     .bg-full-width.bg-fondo-5.tarjeta.mb-5
-      .p-4.px-lg-2
-        SlyderA(tipo="b").bg-color-white.p-3.p-lg-4.tarjeta
+      .p-sm-0.py-md-4.p-lg-4.px-lg-2
+        SlyderA(tipo="b").bg-color-white.p-0.p-lg-4.tarjeta
           .row.justify-content-center.align-items-center.p-2
             .col-lg-5.mb-4.mb-lg-0.mb-3.mb-lg-0
               h4.mb-3 Rehogado
@@ -113,7 +113,7 @@
               p.mb-0.p-4(data-aos="fade-right")  En Colombia, la fritura es una técnica emblemática, presente en los aborrajados, las arepas de huevo, las empanadas y los patacones. La clave para una fritura perfecta es controlar la temperatura del aceite; si está muy baja, el alimento lo absorbe y queda grasoso; si está muy alta, se quema por fuera y queda crudo por dentro.
             .col-md-6.col-lg-3
               figure
-                img(src="@/assets/curso/tema3/img09.svg", data-aos="zoom-in")
+                img(src="@/assets/curso/tema3/img09.svg", data-aos="fade-right")
                 
     separador
 
@@ -129,7 +129,7 @@
         .row.justify-content-center.align-items-center
           .col-12.col-md-6.col-lg-3.mb-4.mb-lg-0
             figure
-              img(src="@/assets/curso/tema3/img10.png", data-aos="zoom-in")
+              img(src="@/assets/curso/tema3/img10.png", data-aos="fade-right")
           .col-lg-9
             AcordionA(tipo="b" clase-tarjeta="tarjeta bg-color-18")
               div(titulo="Hervir").p-4
@@ -138,7 +138,7 @@
                     p.mb-0 implica sumergir el alimento en agua o un caldo a 100°C, con burbujas constantes. Es un método de expansión agresivo, ideal para cocinar pastas, granos (arroz, lentejas) y para ablandar rápidamente tubérculos duros (yuca, papa para sancocho). Sin embargo, puede lixiviar (extraer) nutrientes y sabores solubles en el agua, por lo que ese líquido de cocción a menudo se aprovecha, como en el caldo de un "Sancocho". 
                   .col-lg-5
                     figure
-                      img(src="@/assets/curso/tema3/img11.png", data-aos="zoom-in")
+                      img(src="@/assets/curso/tema3/img11.png", data-aos="fade-right")
               
               div(titulo="Escalfar").p-4
                 .row.justify-content-center.align-items-center
@@ -146,7 +146,7 @@
                     p.mb-0 es una cocción suave en un líquido (agua, caldo, leche) que se mantiene justo por debajo del punto de ebullición, entre 80°C y 95°C, con temblores apenas perceptibles en la superficie. Es perfecto para alimentos delicados cuya textura se dañaría con el hervor violento, como los huevos (huevos escalfados), los pescados de carne blanda ("Pescado escalfado en vino blanco") o algunas frutas.
                   .col-lg-5
                     figure
-                      img(src="@/assets/curso/tema3/img12.png", data-aos="zoom-in")
+                      img(src="@/assets/curso/tema3/img12.png", data-aos="fade-right")
               
               div(titulo="La cocción al vapor").p-4
                 .row.justify-content-center.align-items-center
@@ -154,7 +154,7 @@
                     p.mb-0 se realiza suspendiendo el alimento sobre un líquido hirviendo, sin contacto directo, de modo que se cocina por la acción del vapor caliente. Este método preserva al máximo los nutrientes, el color, la forma y el sabor original de los alimentos, ya que no hay lixiviación. Es excelente para vegetales como el brócoli, la coliflor o el pescado envuelto en hoja de plátano, una técnica ancestral que aún se practica en regiones como el Pacífico colombiano. 
                   .col-lg-5
                     figure
-                      img(src="@/assets/curso/tema3/img13.png", data-aos="zoom-in")
+                      img(src="@/assets/curso/tema3/img13.png", data-aos="fade-right")
               
               div(titulo="El escaldar o blanqueado").p-4
                 .row.justify-content-center.align-items-center
@@ -162,7 +162,7 @@
                     p.mb-0 mencionado en el capítulo anterior, es una variación breve del hervido (30 segundos a 2 minutos) seguida de un enfriamiento brusco, cuyo objetivo no es cocinar completamente, sino fijar colores, eliminar sabores amargos o ablandar pieles.
                   .col-lg-5
                     figure
-                      img(src="@/assets/curso/tema3/img14.png", data-aos="zoom-in")
+                      img(src="@/assets/curso/tema3/img14.png", data-aos="fade-right")
                     
     separador
 
@@ -197,7 +197,7 @@
         .row.mb-0.justify-content-center.align-items-center
           .col-12.col-md-6.col-lg-3.mb-3.mb-lg-0.order-2.order-md-1.order-lg-1
             figure
-              img(src="@/assets/curso/tema3/img17.png", data-aos="zoom-in")
+              img(src="@/assets/curso/tema3/img17.png", data-aos="fade-right")
           .col-lg-9.order-1.order-md-2.order-lg-2.mb-4.mb-lg-0
             h4.mb-3 Asado a la sal
             p.mb-0(data-aos="fade-right") es un término amplio que puede referirse a la cocción por radiación directa de una fuente de calor (asador, parrilla, brasas) o por convección de aire caliente en horno para piezas grandes. En su versión más emblemática, como el asado a la llanera, el alimento (generalmente una pieza grande de carne) se cuece lentamente a una distancia prudente de las brasas, girándose para lograr una costra sellada y un interior jugoso y cocido uniformemente. Este método imparte un sabor ahumado único y es central en la identidad gastronómica de la Orinoquía.
@@ -213,8 +213,8 @@
     
     
     .bg-full-width.bg-fondo-5.tarjeta.mb-5
-      .p-4.px-lg-2
-        SlyderA(tipo="b").bg-color-white.p-3.p-lg-4.tarjeta
+      .p-sm-0.py-md-4.p-lg-4.px-lg-2
+        SlyderA(tipo="b").bg-color-white.p-0.p-lg-4.tarjeta
           .row.justify-content-center.align-items-center.p-2
             .col-lg-5.mb-4.mb-lg-0.mb-3.mb-lg-0
               p.mb-0(data-aos="fade-right") El <b>guisado</b> es un proceso donde los ingredientes, previamente dorados o no, se cocinan en una cantidad moderada de líquido (caldo, salsa, agua) a fuego lento o medio, tapados. El líquido hierve suavemente y reduce gradualmente, espesándose. Es el método clásico para preparaciones como el guiso de pollo con papas o el fríjol antioqueño.
@@ -251,7 +251,7 @@
             b Tabla 3. 
             span Métodos de cocción: clasificación, medios, temperaturas y aplicación en gastronomía colombiana
 
-        .tabla-a.color-acento-contenido(data-aos="zoom-in")
+        .tabla-a.color-acento-contenido(data-aos="fade-right")
           table
             caption Nota. Clasificación basada en el modelo de McGee (2004) y Gisslen (2015). Los datos de temperatura son referenciales para el servicio de alimentos. Las aplicaciones colombianas se derivan del análisis de recetas regionales de los documentos de apoyo del SENA y técnicas tradicionales documentadas.
             thead
@@ -336,7 +336,7 @@
               p.mb-0.p-4(data-aos="fade-right")  La elección del método de cocción es un acto de responsabilidad. Implica entender la naturaleza del ingrediente y honrarlo con la técnica adecuada. Un chef íntegro no fuerza un corte duro con un fuego rápido, sino que le brinda el tiempo y el medio que necesita para revelar su mejor versión, respetando así el recurso y la expectativa del comensal.
             .col-md-6.col-lg-3
               figure
-                img(src="@/assets/curso/tema3/img21.svg", data-aos="zoom-in")
+                img(src="@/assets/curso/tema3/img21.svg", data-aos="fade-right")
                 
     .container
       .row.justify-content-center.align-items-center.mb-0
@@ -344,7 +344,7 @@
           .row.bg-color-secundario.align-items-center.justify-content-center
             .col-md-6.col-lg-4.mb-3.mb-lg-0.order-2.order-md-2.order-lg-1
               figure
-                img(src="@/assets/curso/tema3/img22.svg", data-aos="zoom-in")
+                img(src="@/assets/curso/tema3/img22.svg", data-aos="fade-right")
             .col-lg-8.order-1.order-md-1.order-lg-2.p-4.p-lg-0
               p(data-aos="fade-left").mb-4 Para profundizar en los métodos y técnicas de cocción de nuestra gastronomía nacional, ingrese aquí y escuche este podcast:
               

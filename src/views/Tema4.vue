@@ -26,7 +26,7 @@
     .row.justify-content-center.mb-5
       .col-md-12.col-lg-10
         #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 4.1. Definición, filosofía y beneficios del <em> mise en place</em>
+          h2 4.1 Definición, filosofía y beneficios del <em> mise en place</em>
 
         p.mb-0(data-aos="fade-right") El <em> mise en place</em> se define como el conjunto completo y metódico de preparaciones necesarias para el buen desarrollo del servicio en una cocina. Su filosofía se basa en la previsión, el orden y la eficiencia, operando bajo el principio de que todo debe tener un lugar y todo debe estar en su lugar. Esta mentalidad exige pensar varios pasos adelante, anticipando no solo lo que se necesita, sino cuándo y en qué condición. Los beneficios de su aplicación rigurosa son tangibles y múltiples.
     
@@ -47,7 +47,7 @@
     .row.justify-content-center
       .col-md-12.col-lg-10
         #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 4.2. Organización de la estación de trabajo
+          h2 4.2 Organización de la estación de trabajo
 
 
     .row.justify-content-center.mb-5
@@ -65,7 +65,7 @@
           .col-md-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta.bg-fondo-2.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-5.col-md-6.col-lg-12
+                .col-8.col-md-12.col-lg-12
                   figure
                     img(src="@/assets/curso/tema4/img05.png", alt="Icono")
               p.text-center Más utilizados (sal, aceite, espátulas) al alcance de la mano.
@@ -73,7 +73,7 @@
           .col-md-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta.bg-fondo-2.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-5.col-md-6.col-lg-12
+                .col-8.col-md-12.col-lg-12
                   figure
                     img(src="@/assets/curso/tema4/img06.png", alt="Icono")
               p.text-center Menos usados (alejados pero accesibles).
@@ -81,7 +81,7 @@
           .col-md-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta.bg-fondo-2.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-5.col-md-6.col-lg-12
+                .col-8.col-md-12.col-lg-12
                   figure
                     img(src="@/assets/curso/tema4/img07.png", alt="Icono")
               p.text-center Separación de zonas: se deben mantener claramente separados los recipientes con ingredientes que requieren refrigeración (ubicados sobre baños maría de hielo si es necesario) de las áreas de cocción y las fuentes de calor.
@@ -102,7 +102,7 @@
     .row.justify-content-center.mb-5
       .col-md-12.col-lg-10
         #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 4.3. La pre-preparación como eje de la eficiencia operativa de la estación de trabajo
+          h2 4.3 La pre-preparación como eje de la eficiencia operativa de la estación de trabajo
 
         p.mb-0(data-aos="fade-right") El núcleo del <em>mise en place</em> es la pre-preparación, que comprende todas las tareas realizadas antes del inicio del servicio para dejar los ingredientes en un estado de listos para usar. Esta etapa no debe confundirse con la preparación parcial que compromete la calidad; se trata de llevar el ingrediente al último paso reversible antes de su cocción o montaje final.
 
@@ -153,7 +153,7 @@
     .row.justify-content-center.mb-5
       .col-md-12.col-lg-10
         #t_4_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 4.4. Gestión del tiempo y flujo de trabajo en cocina
+          h2 4.4 Gestión del tiempo y flujo de trabajo en cocina
 
         p.mb-0(data-aos="fade-right") El <em>mise en place</em> es, en última instancia, una herramienta superior de gestión del tiempo. Su objetivo es que, durante el pico del servicio, el cocinero pueda dedicar el 90 % de su atención y tiempo a las actividades de valor agregado: cocción al momento, montaje y control de calidad. La gestión eficiente se logra mediante la priorización de tareas. 
 
@@ -163,7 +163,7 @@
           .col-md-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta.bg-fondo-2.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-5.col-md-6.col-lg-12
+                .col-8.col-md-12.col-lg-12
                   figure
                     img(src="@/assets/curso/tema4/img11.png", alt="Icono")
               p.text-center Las tareas que requieren más tiempo o procesos lentos (como cocinar un caldo o marinar una carne) se inician primero.
@@ -171,7 +171,7 @@
           .col-md-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta.bg-fondo-2.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-5.col-md-6.col-lg-12
+                .col-8.col-md-12.col-lg-12
                   figure
                     img(src="@/assets/curso/tema4/img12.png", alt="Icono")
               p.text-center Luego vienen las tareas críticas para múltiples platos (preparar bases de salsas).
@@ -179,7 +179,7 @@
           .col-md-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta.bg-fondo-2.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-5.col-md-6.col-lg-12
+                .col-8.col-md-12.col-lg-12
                   figure
                     img(src="@/assets/curso/tema4/img13.png", alt="Icono")
               p.text-center Las tareas más rápidas y específicas (cortar hierbas, preparar aderezos).

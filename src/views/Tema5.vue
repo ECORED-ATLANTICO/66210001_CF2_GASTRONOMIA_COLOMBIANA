@@ -23,7 +23,7 @@
     .row.justify-content-center
       .col-md-12.col-lg-10
         #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 5.1. Conceptos de protocolo y etiqueta aplicados al servicio de alimentos
+          h2 5.1 Conceptos de protocolo y etiqueta aplicados al servicio de alimentos
     
     .row.justify-content-center.mb-5
       .col-md-12.col-lg-10
@@ -60,7 +60,7 @@
     .row.justify-content-center
       .col-md-12.col-lg-12
         #t_5_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 5.2. Organización de salones y disposición de mesas según el tipo de evento
+          h2 5.2 Organización de salones y disposición de mesas según el tipo de evento
 
     .row.justify-content-center.mb-5
       .col-md-12.col-lg-12
@@ -86,7 +86,7 @@
     .row.justify-content-center
       .col-md-12.col-lg-12
         #t_5_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 5.3. Elementos de <em> mise en place</em> para servicio formal y de banquete
+          h2 5.3 Elementos de <em> mise en place</em> para servicio formal y de banquete
 
     .container.justify-content-center.mb-5
       .col-md-12.col-lg-12
@@ -116,7 +116,7 @@
     .row.justify-content-center.mb-5
       .col-md-12.col-lg-10
         #t_5_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 5.4. El rol del anfitrión y la secuencia de servicio en un evento formal
+          h2 5.4 El rol del anfitrión y la secuencia de servicio en un evento formal
 
         p.mb-0El El anfitrión (que puede ser el cliente o un representante de la empresa organizadora) es el director de la ceremonia, y el personal de servicio actúa para facilitar su rol. El profesional gastronómico debe conocer la secuencia de servicio estándar para poder anticiparse y ejecutarla sin necesidad de órdenes constantes.
   

@@ -146,14 +146,8 @@ export default {
           },
           {
             numero: '4.4',
-            titulo:
-              'Tipos de residuos sólidos y sus vías de segregación y disposición',
-            hash: 't_4_4',
-          },
-          {
-            numero: '4.5',
             titulo: 'Gestión del tiempo y flujo de trabajo en cocina',
-            hash: 't_4_5',
+            hash: 't_4_4',
           },
         ],
       },
@@ -221,7 +215,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA2_66210001__DU.pdf',
+        download: 'downloads/CFA2_66210001__DU.zip',
       },
       {
         icono: 'fas fa-download',
