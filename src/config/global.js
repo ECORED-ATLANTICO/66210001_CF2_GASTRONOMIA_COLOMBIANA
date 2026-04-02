@@ -1,8 +1,9 @@
 export default {
   global: {
-    Name: 'Mise en place y técnicas de preparación en la cocina colombiana',
+    Name:
+      '<em>Mise en place</em> y técnicas de preparación en la cocina colombiana',
     Description:
-      'Este componente formativo desarrolla las competencias para interpretar recetas estándar, ejecutar técnicas de corte y cocción propias de la cocina colombiana, aplicar los principios del mise en place eficiente y seleccionar los protocolos de organización y etiqueta para eventos gastronómicos, integrando la tradición culinaria con los estándares profesionales de servicio.',
+      'Este componente formativo desarrolla las competencias para interpretar recetas estándar, ejecutar técnicas de corte y cocción propias de la cocina colombiana, aplicar los principios del <em>mise en place</em> eficiente y seleccionar los protocolos de organización y etiqueta para eventos gastronómicos, integrando la tradición culinaria con los estándares profesionales de servicio.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -49,7 +50,7 @@ export default {
           {
             numero: '1.3',
             titulo:
-              'Secuenciación lógica de operaciones: del mise en place a la presentación',
+              'Secuenciación lógica de operaciones: del <em>mise en place</em> a la presentación',
             hash: 't_1_3',
           },
           {
@@ -126,12 +127,13 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Principios y aplicación del mise en place eficiente',
+        titulo: 'Principios y aplicación del <em>mise en place</em> eficiente',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '4.1',
-            titulo: 'Definición, filosofía y beneficios del mise en place',
+            titulo:
+              'Definición, filosofía y beneficios del <em>mise en place</em>',
             hash: 't_4_1',
           },
           {
@@ -172,7 +174,7 @@ export default {
           {
             numero: '5.3',
             titulo:
-              'Elementos de mise en place para servicio formal y de banquete',
+              'Elementos de <em>mise en place</em> para servicio formal y de banquete',
             hash: 't_5_3',
           },
           {
@@ -215,7 +217,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA2_66210001__DU.zip',
+        download: 'downloads/CFA2_66210001_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -309,7 +311,7 @@ export default {
         'Líquido aromático obtenido de huesos, espinas y vegetales cocidos a fuego controlado, que sirve como base estandarizada para sopas, salsas y guisos, aportando sabor, cuerpo y consistencia.',
     },
     {
-      termino: 'Guéridon (carro de servicio)',
+      termino: '<em>Guéridon</em> (carro de servicio)',
       significado:
         'Mesa o carro auxiliar de sala equipado con utensilios (pinzas, salseras, quemadores) para montar, trinchado, salseado o flambear junto a la mesa del comensal, optimizando la fluidez y la etiqueta en eventos formales.',
     },
@@ -361,12 +363,12 @@ export default {
     {
       termino: 'Torneado (<em>Tourné</em>)',
       significado:
-        'Técnica de corte para dar forma ovalada y regular, de 5–7 caras a vegetales (p. ej., papa criolla o ñame), buscando uniformidad de cocción y presentación gourmet como guarnición.',
+        'Técnica de corte para dar forma ovalada y regular, de 5–7 caras a vegetales (p. ej., papa criolla o ñame), buscando uniformidad de cocción y presentación <em>gourmet</em> como guarnición.',
     },
     {
       termino: 'Zona de peligro',
       significado:
-        'Rango de temperatura entre 4°C y 60°C donde las bacterias patógenas en los alimentos se multiplican más rápidamente.',
+        'Rango de temperatura entre 4 °C y 60 °C donde las bacterias patógenas en los alimentos se multiplican más rápidamente.',
     },
   ],
   referencias: [

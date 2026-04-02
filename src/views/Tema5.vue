@@ -53,7 +53,7 @@
               figure
                 img(src="@/assets/curso/tema5/img04.svg", data-aos="zoom-in") 
             .col-lg-9.order-1.order-md-1.order-lg-2
-              p.mb-0.p-4(data-aos="fade-right") Por ejemplo, en un evento de LPQ Gourmet para celebrar una certificación, el mesero debe abordar a los comensales con un "Buenas tardes, señor/señora" y describir brevemente el plato al servirlo, sin interrumpir conversaciones importantes. Estas normas, lejos de ser superfluas, estructuran el evento, evitan confusiones y transmiten un mensaje de respeto y consideración hacia todos los participantes.
+              p.mb-0.p-4(data-aos="fade-right") Por ejemplo, en un evento de LPQ <em>Gourmet</em> para celebrar una certificación, el mesero debe abordar a los comensales con un "Buenas tardes, señor/señora" y describir brevemente el plato al servirlo, sin interrumpir conversaciones importantes. Estas normas, lejos de ser superfluas, estructuran el evento, evitan confusiones y transmiten un mensaje de respeto y consideración hacia todos los participantes.
             
     separador
 
@@ -106,7 +106,7 @@
       .col-md-12.col-lg-10
         .row.mb-0.justify-content-center.align-items-center
           .col-lg-9.order-1.order-md-1.order-lg-1.mb-4.mb-lg-0
-            p.mb-0(data-aos="fade-right") Los accesorios como saleros, pimenteros, porta menús, velas y decoración deben estar impecables y en su lugar. Un elemento clave es el carro de servicio o guéridon, que debe estar equipado con todos los utensilios necesarios para el servicio (cucharas y tenedores de servicio, pinzas, cuchillos trinchantes, salseras, quemadores) y estacionado en un lugar discreto pero accesible. La verificación final de este <em> mise en place</em> de sala es lo que permite que, una vez iniciado el evento, el servicio fluya con discreción y eficiencia, sin que los comensales perciban esfuerzo o desorganización.
+            p.mb-0(data-aos="fade-right") Los accesorios como saleros, pimenteros, porta menús, velas y decoración deben estar impecables y en su lugar. Un elemento clave es el carro de servicio o <em>guéridon</em>, que debe estar equipado con todos los utensilios necesarios para el servicio (cucharas y tenedores de servicio, pinzas, cuchillos trinchantes, salseras, quemadores) y estacionado en un lugar discreto pero accesible. La verificación final de este <em> mise en place</em> de sala es lo que permite que, una vez iniciado el evento, el servicio fluya con discreción y eficiencia, sin que los comensales perciban esfuerzo o desorganización.
           .col-12.col-md-6.col-lg-3.mb-3.mb-lg-0.order-2.order-md-1.order-lg-1
             figure
               img(src="@/assets/curso/tema5/img08.png", data-aos="zoom-in")
@@ -140,7 +140,7 @@
             figure
               img(src="@/assets/curso/tema5/img11.png", data-aos="zoom-in")
           .col-lg-9
-            p.mb-0(data-aos="fade-right") El personal debe moverse con fluidez, trabajar en equipo comunicándose con señales discretas, y mantener una actitud de invisibilidad profesional: estar atento para anticipar necesidades (un cubierto caído, más pan) sin involucrarse en conversaciones o llamar la atención innecesariamente. En el contexto del evento de certificación de LPQ Gourmet, esta secuencia impecable reflejaría la profesionalidad de la firma y coronaría el logro con una experiencia de servicio de primer nivel.
+            p.mb-0(data-aos="fade-right") El personal debe moverse con fluidez, trabajar en equipo comunicándose con señales discretas, y mantener una actitud de invisibilidad profesional: estar atento para anticipar necesidades (un cubierto caído, más pan) sin involucrarse en conversaciones o llamar la atención innecesariamente. En el contexto del evento de certificación de LPQ <em>Gourmet</em>, esta secuencia impecable reflejaría la profesionalidad de la firma y coronaría el logro con una experiencia de servicio de primer nivel.
             
     .row.justify-content-center.align-items-center.mb-5
       .col-md-12.col-lg-12
@@ -150,7 +150,8 @@
             span Protocolo básico de servicio en mesa para evento formal tipo cena de gala
         .tabla-a.color-acento-contenido(data-aos="zoom-in")
           table
-            caption Nota. Adaptado de Síntesis de protocolos de servicio estándar internacional (International Butler Academy, 2019) adaptados a usos comunes en la alta restauración colombiana y a lineamientos de manuales de etiqueta profesional (SENA, 2022).
+            caption 
+              p Nota. Adaptado de Síntesis de protocolos de servicio estándar internacional (International Butler Academy, 2019) adaptados a usos comunes en la alta restauración colombiana y a lineamientos de manuales de etiqueta profesional (SENA, 2022).
             thead
               tr
                 th Etapa del servicio
@@ -162,7 +163,7 @@
                 td <b>Pre-servicio.</b>
                 td Verificar lencería, vajilla, cristalería y cubiertos. Ajustar iluminación y ambiente.
                 td Todo debe estar perfecto antes de la llegada del primer invitado.
-                td No usar vajilla con chips o rajaduras. Las copas deben brillar. Manteles sin arrugas.
+                td No usar vajilla con <em>chips</em> o rajaduras. Las copas deben brillar. Manteles sin arrugas.
               tr
                 td <b>Recepción / aperitivo.</b>
                 td Circular con bandejas de bebidas y pasabocas. Ofrecer servilletas.

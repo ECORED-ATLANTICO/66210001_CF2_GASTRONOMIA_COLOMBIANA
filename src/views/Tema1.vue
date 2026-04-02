@@ -39,7 +39,7 @@
               img(src="@/assets/curso/tema1/img02.png", data-aos="zoom-in")
           .col-lg-9.bg-color-98.mb-0
             .p-3.p-lg-4
-              p.mb-0(data-aos="fade-right") Toda receta profesional debe contener, de manera clara y ordenada: un nombre del plato específico; un rendimiento expresado en número de porciones y tamaño de cada una; una lista de ingredientes con cantidades expresadas en unidades de peso o volumen estándar (gramos, litros), listados en el orden de uso e incluyendo el estado de la materia prima (Ej.: cebolla cabezona picada finamente); un procedimiento detallado y secuencial, que describe técnicas, temperaturas y tiempos; información de costo, que puede incluir costo por porción y costo total de la receta; y finalmente, notas de presentación y posibles variaciones. Por ejemplo, la receta estándar de un Arroz con coco en un restaurante caribeño no sólo diría coco rallado, sino especificará "400 g de coco fresco rallado, prensado para obtener 200 ml de leche de primera y 100 g de titoté. Esta precisión es lo que permite que, independientemente de quién la ejecute, el plato tenga el mismo sabor, porción y costo, garantizando la consistencia que exige un establecimiento como LPQ <em>Gourmet</em>.
+              p.mb-0(data-aos="fade-right") Toda receta profesional debe contener, de manera clara y ordenada: un nombre del plato específico; un rendimiento expresado en número de porciones y tamaño de cada una; una lista de ingredientes con cantidades expresadas en unidades de peso o volumen estándar (gramos, litros), listados en el orden de uso e incluyendo el estado de la materia prima (Ej.: cebolla cabezona picada finamente); un procedimiento detallado y secuencial, que describe técnicas, temperaturas y tiempos; información de costo, que puede incluir costo por porción y costo total de la receta; y finalmente, notas de presentación y posibles variaciones. Por ejemplo, la receta estándar de un Arroz con coco en un restaurante caribeño no sólo diría coco rallado, sino especificará "400 g de coco fresco rallado, prensado para obtener 200 ml de leche de primera y 100 g de <em>titoté</em>. Esta precisión es lo que permite que, independientemente de quién la ejecute, el plato tenga el mismo sabor, porción y costo, garantizando la consistencia que exige un establecimiento como LPQ <em>Gourmet</em>.
     
     separador
 
@@ -65,49 +65,49 @@
               .col-12
                 img(src="@/assets/curso/tema1/img04.png", data-aos="zoom-in")
             .col-6.mx-auto
-              p.text-center <em>Brunoise</em>: corte en dados de 1-2 mm.
+              p.text-center <b><em>Brunoise</em>:</b> corte en dados de 1-2 mm.
 
           .tarjeta.bg01.p-4
             .row.justify-content-center.mb-3
               .col-12
                 img(src="@/assets/curso/tema1/img05.png", data-aos="zoom-in")
             .col-8.mx-auto
-              p.text-center Juliana: corte en tiras finas de 1 a 3 mm de grosor.
+              p.text-center <b>Juliana:</b> corte en tiras finas de 1 a 3 mm de grosor.
 
           .tarjeta.bg01.p-4
             .row.justify-content-center.mb-3
               .col-12
                 img(src="@/assets/curso/tema1/img06.png", data-aos="zoom-in")
             .col-8.mx-auto
-              p.text-center <em>Chiffonade</em>: corte en tiras finas de hojas verdes.
+              p.text-center <b><em>Chiffonade</em>:</b> corte en tiras finas de hojas verdes.
 
           .tarjeta.bg01.p-4
             .row.justify-content-center.mb-3
               .col-12
                 img(src="@/assets/curso/tema1/img07.png", data-aos="zoom-in")
             .col-12.mx-auto
-              p.text-center Dorar: cocción a fuego alto para dar color caramelizado a los alimentos.
+              p.text-center <b>Dorar:</b> cocción a fuego alto para dar color caramelizado a los alimentos.
 
           .tarjeta.bg01.p-4
             .row.justify-content-center.mb-3
               .col-12
                 img(src="@/assets/curso/tema1/img08.png", data-aos="zoom-in")
             .col-12.mx-auto
-              p.text-center Hogao: guiso hecho a base de tomate y cebolla sofritos en aceite.
+              p.text-center <b>Hogao:</b> guiso hecho a base de tomate y cebolla sofritos en aceite.
 
           .tarjeta.bg01.p-4
             .row.justify-content-center.mb-3
               .col-12
                 img(src="@/assets/curso/tema1/img09.png", data-aos="zoom-in")
             .col-12.mx-auto
-              p.text-center Sofrito: similar al hogao, es una mezcla de vegetales como cebolla, pimientos, ajo y tomates picados finamente y cocidos lentamente en aceite.
+              p.text-center <b>Sofrito:</b> similar al hogao, es una mezcla de vegetales como cebolla, pimientos, ajo y tomates picados finamente y cocidos lentamente en aceite.
 
           .tarjeta.bg01.p-4
             .row.justify-content-center.mb-3
               .col-12
                 img(src="@/assets/curso/tema1/img10.png", data-aos="zoom-in")
             .col-10.mx-auto
-              p.text-center Chancar: machacar, triturar o moler ingredientes sólidos en un pilón o mortero para volverlos pasta o polvo.
+              p.text-center <b>Chancar:</b> machacar, triturar o moler ingredientes sólidos en un pilón o mortero para volverlos pasta o polvo.
 
 
     .row.justify-content-center.mb-3
@@ -184,7 +184,8 @@
             span Ejemplo de análisis de costeo y escalado: hogao para bandeja paisa
         .tabla-a.color-acento-contenido
           table
-            caption Nota. Adaptado con base en precios de mercado referenciales y estándares de merma del sector gastronómico colombiano (SENA, 2020; FEDEGAN, 2023).
+            caption 
+              p Nota. Adaptado con base en precios de mercado referenciales y estándares de merma del sector gastronómico colombiano (SENA, 2020; FEDEGAN, 2023).
             thead
               tr
                 th Ingredientes

@@ -52,7 +52,7 @@
         .col-md-12.col-lg-10
           .row.justify-content-center.align-items-center.bg-color-11
             .col-lg-9.mb-3.mb-lg-0
-              p.mb-0.p-4(data-aos="fade-right") Por ejemplo, en la preparación de un "Sancocho de pescado" del Pacífico, se identifican claramente estas operaciones: seleccionar y limpiar el pescado, pelar y cortar la yuca y el plátano en trozos uniformes, y quizás blanquear ligeramente algunas verduras para fijar su color. Entender esta descomposición facilita la planificación del mise en place, la asignación de tareas en la brigada y el control de la calidad en cada etapa intermedia del proceso productivo.
+              p.mb-0.p-4(data-aos="fade-right") Por ejemplo, en la preparación de un "Sancocho de pescado" del Pacífico, se identifican claramente estas operaciones: seleccionar y limpiar el pescado, pelar y cortar la yuca y el plátano en trozos uniformes, y quizás blanquear ligeramente algunas verduras para fijar su color. Entender esta descomposición facilita la planificación del <em>mise en place</em>, la asignación de tareas en la brigada y el control de la calidad en cada etapa intermedia del proceso productivo.
             .col-md-6.col-lg-3
               figure
                 img(src="@/assets/curso/tema2/img05.svg", data-aos="zoom-in")
@@ -195,7 +195,8 @@
             span Guía de técnicas de corte y su aplicación en ingredientes colombianos
         .tabla-a.color-acento-contenido
           table
-            caption Nota. Adaptado de los estándares de la Escuela de Gastronomía SENA y técnicas descritas en manuales profesionales (Gisslen, 2015; Roca, 2018) y documentos de apoyo (MF_2_A, MF_2_B).
+            caption 
+              p Nota. Adaptado de los estándares de la Escuela de Gastronomía SENA y técnicas descritas en manuales profesionales (Gisslen, 2015; Roca, 2018) y documentos de apoyo (MF_2_A, MF_2_B).
             thead
               tr
                 th Técnica de corte
@@ -211,13 +212,13 @@
                 td Salteado de verduras para acompañar lomo de cerdo.
                 td Cocción uniforme, textura al dente, presentación.
               tr
-                td Brunoise.
+                td <em>Brunoise</em>.
                 td Dados de 1-2 mm.
                 td Cebolla, tomate, ajo.
                 td Base de hogao para bandeja paisa.
                 td Fundirse en la salsa, aportar sabor base sin tropezones.
               tr
-                td Chiffonade.
+                td <em>Chiffonade</em>.
                 td Tiras finas de hojas.
                 td Cilantro, cebollín, lechuga.
                 td Adorno final sobre ajiaco santafereño.
@@ -229,11 +230,11 @@
                 td Filete de pescado frito o sudado.
                 td Presentación entera, fácil consumo, cocción pareja.
               tr
-                td Tourné / torneado.
+                td <em>Tourné</em> / torneado.
                 td Forma ovalada de 5-7 caras.
                 td Papa criolla, ñame.
                 td Guarnición para carne asada.
-                td Cocción uniforme, presentación gourmet, aprovechamiento.
+                td Cocción uniforme, presentación <em>gourmet</em>, aprovechamiento.
               tr
                 td Macedonia.
                 td Dados de 1- 1.5 cm.

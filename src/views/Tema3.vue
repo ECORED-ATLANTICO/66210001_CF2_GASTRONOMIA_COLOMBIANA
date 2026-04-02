@@ -54,7 +54,7 @@
                   img(src="@/assets/curso/tema3/img04.svg", data-aos="fade-right", style="max-width: 100px;").mx-auto
               .col-lg-10.order-lg-2
                 p.mb-3 El medio graso o también conocido como métodos mixtos, combinan ambas lógicas: inician con un paso de concentración (dorar) y continúan con uno de expansión (cocinar en líquido). El guisado, el estofado y el braseado son sus máximos exponentes. 
-                p.mb-0 Estas técnicas son el alma de la cocina de cacerola colombiana, perfectas para cortes de carne menos tiernos pero llenos de sabor, que mediante una cocción prolongada y a baja temperatura en un medio sabroso, se vuelven melosos y profundos, como en un estofado de pollo o un brasato de cerdo.
+                p.mb-0 Estas técnicas son el alma de la cocina de cacerola colombiana, perfectas para cortes de carne menos tiernos pero llenos de sabor, que mediante una cocción prolongada y a baja temperatura en un medio sabroso, se vuelven melosos y profundos, como en un estofado de pollo o un <em>brasato</em> de cerdo.
           
           .tarjeta.color-acento-botones--borde.p-4(titulo="Medio aéreo:")
             .row.justify-content-center.align-items-center
@@ -99,7 +99,7 @@
           .row.justify-content-center.align-items-center.p-2
             .col-lg-5.mb-4.mb-lg-0.mb-3.mb-lg-0
               h4.mb-3 Fritura
-              p.mb-0(data-aos="fade-right") La <b>fritura</b> sumerge el alimento completamente en un medio graso abundante y a alta temperatura (entre 160°C y 180°C). El calor intenso y uniforme crea una costra crujiente y dorada instantáneamente, mientras sella el interior, cocinándolo con su propio vapor.
+              p.mb-0(data-aos="fade-right") La <b>fritura</b> sumerge el alimento completamente en un medio graso abundante y a alta temperatura (entre 160 °C y 180 °C). El calor intenso y uniforme crea una costra crujiente y dorada instantáneamente, mientras sella el interior, cocinándolo con su propio vapor.
 
             .col-md-8.col-lg-7
               figure
@@ -135,7 +135,7 @@
               div(titulo="Hervir").p-4
                 .row.justify-content-center.align-items-center
                   .col-lg-7.mb-4.mb-lg-0
-                    p.mb-0 implica sumergir el alimento en agua o un caldo a 100°C, con burbujas constantes. Es un método de expansión agresivo, ideal para cocinar pastas, granos (arroz, lentejas) y para ablandar rápidamente tubérculos duros (yuca, papa para sancocho). Sin embargo, puede lixiviar (extraer) nutrientes y sabores solubles en el agua, por lo que ese líquido de cocción a menudo se aprovecha, como en el caldo de un "Sancocho". 
+                    p.mb-0 Implica sumergir el alimento en agua o un caldo a 100 °C, con burbujas constantes. Es un método de expansión agresivo, ideal para cocinar pastas, granos (arroz, lentejas) y para ablandar rápidamente tubérculos duros (yuca, papa para sancocho). Sin embargo, puede lixiviar (extraer) nutrientes y sabores solubles en el agua, por lo que ese líquido de cocción a menudo se aprovecha, como en el caldo de un "Sancocho". 
                   .col-lg-5
                     figure
                       img(src="@/assets/curso/tema3/img11.png", data-aos="fade-right")
@@ -143,7 +143,7 @@
               div(titulo="Escalfar").p-4
                 .row.justify-content-center.align-items-center
                   .col-lg-7.mb-4.mb-lg-0
-                    p.mb-0 es una cocción suave en un líquido (agua, caldo, leche) que se mantiene justo por debajo del punto de ebullición, entre 80°C y 95°C, con temblores apenas perceptibles en la superficie. Es perfecto para alimentos delicados cuya textura se dañaría con el hervor violento, como los huevos (huevos escalfados), los pescados de carne blanda ("Pescado escalfado en vino blanco") o algunas frutas.
+                    p.mb-0 Es una cocción suave en un líquido (agua, caldo, leche) que se mantiene justo por debajo del punto de ebullición, entre 80°C y 95°C, con temblores apenas perceptibles en la superficie. Es perfecto para alimentos delicados cuya textura se dañaría con el hervor violento, como los huevos (huevos escalfados), los pescados de carne blanda ("Pescado escalfado en vino blanco") o algunas frutas.
                   .col-lg-5
                     figure
                       img(src="@/assets/curso/tema3/img12.png", data-aos="fade-right")
@@ -151,7 +151,7 @@
               div(titulo="La cocción al vapor").p-4
                 .row.justify-content-center.align-items-center
                   .col-lg-7.mb-4.mb-lg-0
-                    p.mb-0 se realiza suspendiendo el alimento sobre un líquido hirviendo, sin contacto directo, de modo que se cocina por la acción del vapor caliente. Este método preserva al máximo los nutrientes, el color, la forma y el sabor original de los alimentos, ya que no hay lixiviación. Es excelente para vegetales como el brócoli, la coliflor o el pescado envuelto en hoja de plátano, una técnica ancestral que aún se practica en regiones como el Pacífico colombiano. 
+                    p.mb-0 Se realiza suspendiendo el alimento sobre un líquido hirviendo, sin contacto directo, de modo que se cocina por la acción del vapor caliente. Este método preserva al máximo los nutrientes, el color, la forma y el sabor original de los alimentos, ya que no hay lixiviación. Es excelente para vegetales como el brócoli, la coliflor o el pescado envuelto en hoja de plátano, una técnica ancestral que aún se practica en regiones como el Pacífico colombiano. 
                   .col-lg-5
                     figure
                       img(src="@/assets/curso/tema3/img13.png", data-aos="fade-right")
@@ -159,7 +159,7 @@
               div(titulo="El escaldar o blanqueado").p-4
                 .row.justify-content-center.align-items-center
                   .col-lg-7.mb-4.mb-lg-0
-                    p.mb-0 mencionado en el capítulo anterior, es una variación breve del hervido (30 segundos a 2 minutos) seguida de un enfriamiento brusco, cuyo objetivo no es cocinar completamente, sino fijar colores, eliminar sabores amargos o ablandar pieles.
+                    p.mb-0 Mencionado en el capítulo anterior, es una variación breve del hervido (30 segundos a 2 minutos) seguida de un enfriamiento brusco, cuyo objetivo no es cocinar completamente, sino fijar colores, eliminar sabores amargos o ablandar pieles.
                   .col-lg-5
                     figure
                       img(src="@/assets/curso/tema3/img14.png", data-aos="fade-right")
@@ -182,7 +182,7 @@
                 img(src="@/assets/curso/tema3/img15.png", alt="Carne a la parrilla")
               .bg-color-5.p-4.flex-grow-1
                 h4.mb-3 Al horno
-                p.mb-0 es la cocción por convección de aire caliente que rodea al alimento dentro de un espacio cerrado (horno). El calor seco y constante permite una cocción pareja y el desarrollo de reacciones de dorado y caramelización en la superficie. Es fundamental para panes, pasteles, y en la cocina salada para platos como la sobrebarriga al horno, las papas al horno o un pastel de pollo. 
+                p.mb-0 Es la cocción por convección de aire caliente que rodea al alimento dentro de un espacio cerrado (horno). El calor seco y constante permite una cocción pareja y el desarrollo de reacciones de dorado y caramelización en la superficie. Es fundamental para panes, pasteles, y en la cocina salada para platos como la sobrebarriga al horno, las papas al horno o un pastel de pollo. 
 
           .col-md-12.col-lg-6.mb-4.mb-lg-0
             .tarjeta-c.h-100.d-flex.flex-column
@@ -190,7 +190,7 @@
                 img(src="@/assets/curso/tema3/img16.png", alt="Procesos térmicos")
               .bg-color-5.p-4.flex-grow-1
                 h4.mb-3 La parrilla
-                p.mb-0 es una técnica específica que aplica un calor intenso y directo (generalmente de la parrilla superior del horno o de un soplete) sobre la superficie de un alimento, con el objetivo de dorar y formar una costra crujiente, generalmente sobre una capa de queso, pan rallado o bechamel. El cerdo en salsa de champiñones gratinado es un ejemplo de su aplicación. 
+                p.mb-0 Es una técnica específica que aplica un calor intenso y directo (generalmente de la parrilla superior del horno o de un soplete) sobre la superficie de un alimento, con el objetivo de dorar y formar una costra crujiente, generalmente sobre una capa de queso, pan rallado o bechamel. El cerdo en salsa de champiñones gratinado es un ejemplo de su aplicación. 
     
     .row.justify-content-center.mb-3
       .col-md-12.col-lg-10
@@ -253,7 +253,8 @@
 
         .tabla-a.color-acento-contenido(data-aos="fade-right")
           table
-            caption Nota. Clasificación basada en el modelo de McGee (2004) y Gisslen (2015). Los datos de temperatura son referenciales para el servicio de alimentos. Las aplicaciones colombianas se derivan del análisis de recetas regionales de los documentos de apoyo del SENA y técnicas tradicionales documentadas.
+            caption 
+              p Nota. Clasificación basada en el modelo de McGee (2004) y Gisslen (2015). Los datos de temperatura son referenciales para el servicio de alimentos. Las aplicaciones colombianas se derivan del análisis de recetas regionales de los documentos de apoyo del SENA y técnicas tradicionales documentadas.
             thead
               tr
                 th Método
@@ -267,63 +268,63 @@
                 td Saltear.
                 td Concentración.
                 td Grasa (poca), fuego directo.
-                td 180-220°C.
+                td 180 - 220 °C.
                 td Salteado de hongos y cebolla para acompañar el lomo.
                 td Sellado rápido, textura al dente, colores vivos.
               tr
                 td Freír.
                 td Concentración.
                 td Grasa (inmersión).
-                td 160-180°C.
+                td 160 - 180 °C.
                 td Patacones, arepas de huevo, aborrajados.
                 td Costra crujiente y dorada, cocción interna por vapor.
               tr
                 td Hervir.
                 td Expansión.
                 td Agua/Caldo (inmersión).
-                td 100°C.
+                td 100 °C.
                 td Cocción de papa y yuca para sancocho; pasta.
                 td Ablandamiento completo, extracción de sabores al caldo.
               tr
                 td Escalfar.
                 td Expansión.
                 td Líquido (inmersión suave).
-                td 80-95°C.
+                td 80 - 95 °C.
                 td Pescado escalfado en leche de coco (Pacífico).
                 td Cocción delicada, textura suave y húmeda, sabor sutil.
               tr
                 td Cocer al vapor.
                 td Expansión.
                 td Vapor de agua.
-                td 100°C.
+                td 100 °C.
                 td Pescado envuelto en hoja de plátano, tamales.
                 td Máxima preservación de nutrientes, forma, color y sabor.
               tr
                 td Hornear.
                 td Concentración.
                 td Aire caliente (convección).
-                td 150-250°C.
+                td 150 - 250 °C.
                 td Sobrebarriga al horno.
                 td Cocción pareja, reacciones de dorado y caramelización.
               tr
                 td Asar (Parrilla).
                 td Concentración.
                 td Radiación (brasas, llamas).
-                td 200-300°C.
+                td 200 - 300 °C.
                 td Carne a la llanera (mamona), chorizos.
                 td Sabor ahumado, costra sellada, jugos retenidos.
               tr
                 td Estofar.
                 td Mixto.
                 td Combinación (grasa + líquido).
-                td 90-100°C (líq.).
+                td 90 - 100 °C (líq.).
                 td Estofado de pollo con papas, carnes duras en salsa.
                 td Ablandamiento de fibras, integración de sabores, salsa espesa.
               tr
                 td Brasear.
                 td Mixto.
                 td Combinación (grasa + poco líquido).
-                td 120-160°C (horno).
+                td 120 - 160 °C (horno).
                 td Lagarta o pierna de cerdo braseada.
                 td Carne extremadamente jugosa y deshilachable, salsa gelatinosa.
      
@@ -346,7 +347,7 @@
               figure
                 img(src="@/assets/curso/tema3/img22.svg", data-aos="fade-right")
             .col-lg-8.order-1.order-md-1.order-lg-2.p-4.p-lg-0
-              p(data-aos="fade-left").mb-4 Para profundizar en los métodos y técnicas de cocción de nuestra gastronomía nacional, ingrese aquí y escuche este podcast:
+              p(data-aos="fade-left").mb-4 Para profundizar en los métodos y técnicas de cocción de nuestra gastronomía nacional, ingrese aquí y escuche este <em>podcast</em>:
               
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                 texto="Métodos y técnicas de cocción en la gastronomía colombiana"

@@ -20,7 +20,7 @@ export default {
       tema: 'Buenas Prácticas de manufactura en la Cocina Colombiana',
       titulo: 'Del plano al plato: reto de organización y protocolo',
       introduccion:
-        '<b>Objeto:</b> evaluar y reforzar la capacidad del aprendiz para integrar los conocimientos sobre interpretación de recetas, técnicas, mise en place y protocolo, aplicándolos a la planificación de un evento gastronómico con identidad colombiana.',
+        '<b>Objeto:</b> evaluar y reforzar la capacidad del aprendiz para integrar los conocimientos sobre interpretación de recetas, técnicas, <em>mise en place</em> y protocolo, aplicándolos a la planificación de un evento gastronómico con identidad colombiana.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!.',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -143,7 +143,7 @@ export default {
         {
           id: 6,
           texto:
-            'En la filosofía del mise en place, "todo debe tener un lugar y todo debe estar en su lugar" antes del servicio.',
+            'En la filosofía del <em>mise en place</em>, "todo debe tener un lugar y todo debe estar en su lugar" antes del servicio.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -159,14 +159,14 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Excelente. Esta es la máxima fundamental que define la esencia del mise en place. Es un sistema basado en la previsión y el orden metódico, que busca tener absolutamente todo preparado y organizado para garantizar la fluidez y eficiencia durante el servicio.',
+            'Excelente. Esta es la máxima fundamental que define la esencia del <em>mise en place</em>. Es un sistema basado en la previsión y el orden metódico, que busca tener absolutamente todo preparado y organizado para garantizar la fluidez y eficiencia durante el servicio.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 7,
           texto:
-            'Para un evento de cóctel (standing reception), la disposición ideal de mesas son mesas redondas grandes para que todos se sienten.',
+            'Para un evento de cóctel (<em>standing reception</em>), la disposición ideal de mesas son mesas redondas grandes para que todos se sienten.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -182,7 +182,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            'Así es. Para un cóctel o "standing reception", el objetivo es fomentar la circulación y el networking. Se utilizan mesas altas, pequeñas y dispersas para que los invitados apoyen sus bebidas y pasabocas, no para sentarse a comer formalmente.',
+            'Así es. Para un cóctel o "<em>standing reception</em>", el objetivo es fomentar la circulación y el networking. Se utilizan mesas altas, pequeñas y dispersas para que los invitados apoyen sus bebidas y pasabocas, no para sentarse a comer formalmente.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
@@ -258,7 +258,7 @@ export default {
         {
           id: 11,
           texto:
-            'Una lista de verificación (checklist) es una herramienta opcional para el mise en place en cocinas pequeñas.',
+            'Una lista de verificación (checklist) es una herramienta opcional para el <em>mise en place</em> en cocinas pequeñas.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -350,7 +350,7 @@ export default {
         {
           id: 15,
           texto:
-            'La pre-preparación (mise en place) implica cocinar parcialmente los alimentos para ahorrar tiempo durante el servicio.',
+            'La pre-preparación (<em>mise en place</em>) implica cocinar parcialmente los alimentos para ahorrar tiempo durante el servicio.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
@@ -419,7 +419,7 @@ export default {
         {
           id: 18,
           texto:
-            'La temperatura interna segura para cocinar pollo y destruir patógenos comunes es de 65°C.',
+            'La temperatura interna segura para cocinar pollo y destruir patógenos comunes es de 65 °C.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

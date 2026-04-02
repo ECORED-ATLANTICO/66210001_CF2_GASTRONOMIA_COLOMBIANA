@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Principios y aplicación del <em> mise en place</em> eficiente
+      h1 Principios y aplicación del <em>mise en place</em> eficiente
 
     .row.justify-content-center.mb-3
       .col-md-12.col-lg-10
@@ -19,14 +19,14 @@
             
             .container.mb-3.justify-content-center.align-items-center.bg-color-14.p-4
               .col-lg
-                p.mb-0(data-aos="fade-right") Este capítulo desentraña los principios de esta disciplina, demostrando que su correcta aplicación es lo que permite transformar el caos potencial de un servicio intenso en una coreografía fluida y predecible. Más que una tarea, es un estado de preparación constante que abarca desde la organización física de la estación de trabajo hasta la gestión del tiempo y la previsión de necesidades. Dominar el <em> mise en place</em> no solo incrementa la velocidad y la precisión, sino que reduce el estrés, minimiza el desperdicio y eleva consistentemente la calidad del producto final, siendo la columna vertebral de cualquier operación gastronómica exitosa, ya sea un humilde puesto de empanadas o la cocina de un hotel cinco estrellas.
+                p.mb-0(data-aos="fade-right") Este capítulo desentraña los principios de esta disciplina, demostrando que su correcta aplicación es lo que permite transformar el caos potencial de un servicio intenso en una coreografía fluida y predecible. Más que una tarea, es un estado de preparación constante que abarca desde la organización física de la estación de trabajo hasta la gestión del tiempo y la previsión de necesidades. Dominar el <em>mise en place</em> no solo incrementa la velocidad y la precisión, sino que reduce el estrés, minimiza el desperdicio y eleva consistentemente la calidad del producto final, siendo la columna vertebral de cualquier operación gastronómica exitosa, ya sea un humilde puesto de empanadas o la cocina de un hotel cinco estrellas.
 
     separador
 
     .row.justify-content-center.mb-5
       .col-md-12.col-lg-10
         #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-          h2 4.1 Definición, filosofía y beneficios del <em> mise en place</em>
+          h2 4.1 Definición, filosofía y beneficios del <em>mise en place</em>
 
         p.mb-0(data-aos="fade-right") El <em> mise en place</em> se define como el conjunto completo y metódico de preparaciones necesarias para el buen desarrollo del servicio en una cocina. Su filosofía se basa en la previsión, el orden y la eficiencia, operando bajo el principio de que todo debe tener un lugar y todo debe estar en su lugar. Esta mentalidad exige pensar varios pasos adelante, anticipando no solo lo que se necesita, sino cuándo y en qué condición. Los beneficios de su aplicación rigurosa son tangibles y múltiples.
     
@@ -35,7 +35,7 @@
         .titulo-sexto.color-acento-contenido
           h5 
             b Figura 4.
-          span Etapas del <em> mise en place</em> 
+          span Etapas del <em>mise en place</em> 
         figure.mb-0
           img.mb-3(src="@/assets/curso/tema4/img02.svg", alt="La Figura 4 ilustra las etapas del mise en place, primero la planificación, segundo la organización, tercero la preparación y cuarto la verificación.").d-none.d-lg-block.d-md-block
           img.mb-3(src="@/assets/curso/tema4/img03.svg", alt="La Figura 4 ilustra las etapas del mise en place, primero la planificación, segundo la organización, tercero la preparación y cuarto la verificación.").d-block.d-lg-none.d-md-none
@@ -57,7 +57,7 @@
             figure
               img(src="@/assets/curso/tema4/img04.png", data-aos="zoom-in")
           .col-lg-9.order-1.order-md-2.order-lg-2.mb-4.mb-lg-0
-            p.mb-0(data-aos="fade-right") La estación de trabajo o partida es el espacio físico donde el cocinero ejecuta sus tareas durante el servicio. Su organización es la aplicación práctica del mise en place y debe seguir principios ergonómicos y lógicos. Una partida bien organizada se diseña siguiendo el flujo de trabajo natural: de derecha a izquierda (o viceversa, según la dominancia del cocinero) se dispone la materia prima fría, luego el espacio de preparación/corte, seguido de la fuente de calor (hornillas, plancha), y finalmente el área de emplatado. 
+            p.mb-0(data-aos="fade-right") La estación de trabajo o partida es el espacio físico donde el cocinero ejecuta sus tareas durante el servicio. Su organización es la aplicación práctica del <em>mise en place</em> y debe seguir principios ergonómicos y lógicos. Una partida bien organizada se diseña siguiendo el flujo de trabajo natural: de derecha a izquierda (o viceversa, según la dominancia del cocinero) se dispone la materia prima fría, luego el espacio de preparación/corte, seguido de la fuente de calor (hornillas, plancha), y finalmente el área de emplatado. 
 
     .row.justify-content-center.mb-5
       .col-md-12.col-lg-10
@@ -187,7 +187,7 @@
     .row.justify-content-center.mb-5
       .col-md-12.col-lg-8
         .cajon.bg-color-9.p-4(data-aos="fade-up")
-          p.mb-0 Otra herramienta clave es la creación de listas de verificación (checklists) para cada estación y para cada período (abierto, preparación, cierre). 
+          p.mb-0 Otra herramienta clave es la creación de listas de verificación (<em>checklists</em>) para cada estación y para cada período (abierto, preparación, cierre). 
              
 
     .row.justify-content-center.mb-5
@@ -207,10 +207,10 @@
               figure
                 img(src="@/assets/curso/tema3/img22.svg", data-aos="zoom-in")
             .col-lg-8
-              p(data-aos="fade-left").mb-4 Para profundizar en los métodos y técnicas de cocción de nuestra gastronomía nacional, ingrese aquí y escuche este podcast:
+              p(data-aos="fade-left").mb-4 Para profundizar en los métodos y técnicas de cocción de nuestra gastronomía nacional, ingrese aquí y escuche este <em>podcast</em>:
               
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                texto="Principios y aplicación del mise en place eficiente"
+                texto="Principios y aplicación del <em>mise en place</em> eficiente"
                 tiempo
                 :audio="require('@/assets/curso/audio/2.mp3')"
               )
