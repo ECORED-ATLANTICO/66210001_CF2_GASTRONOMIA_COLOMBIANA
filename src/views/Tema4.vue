@@ -65,7 +65,7 @@
           .col-md-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta.bg-fondo-2.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-8.col-md-12.col-lg-12
+                .col-12.col-md-12.col-lg-12
                   figure
                     img(src="@/assets/curso/tema4/img05.png", alt="Icono")
               p.text-center Más utilizados (sal, aceite, espátulas) al alcance de la mano.
@@ -73,7 +73,7 @@
           .col-md-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta.bg-fondo-2.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-8.col-md-12.col-lg-12
+                .col-12.col-md-12.col-lg-12
                   figure
                     img(src="@/assets/curso/tema4/img06.png", alt="Icono")
               p.text-center Menos usados (alejados pero accesibles).
@@ -81,7 +81,7 @@
           .col-md-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta.bg-fondo-2.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-8.col-md-12.col-lg-12
+                .col-12.col-md-12.col-lg-12
                   figure
                     img(src="@/assets/curso/tema4/img07.png", alt="Icono")
               p.text-center Separación de zonas: se deben mantener claramente separados los recipientes con ingredientes que requieren refrigeración (ubicados sobre baños maría de hielo si es necesario) de las áreas de cocción y las fuentes de calor.
@@ -99,7 +99,7 @@
 
     separador
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4.mb-lg-5
       .col-md-12.col-lg-10
         #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 4.3 La pre-preparación como eje de la eficiencia operativa de la estación de trabajo
@@ -109,7 +109,7 @@
     .row.justify-content-center.mb-5
       .col-md-12.col-lg-10
         .row.justify-content-center.align-items-center
-          .col-lg-8.mb-3.mb-lg-0     
+          .col-lg-8.order-2.order-md-2.order-lg-1     
             .row.mb-3.justify-content-center.align-items-center.bg-color-14.p-4
               .col-lg
                 p.mb-3(data-aos="fade-right") Las actividades clave incluyen: 
@@ -133,7 +133,7 @@
 
                 p.mb-0(data-aos="fade-right") Un error común es sobre-preparar; la pre-preparación debe calcularse con base en el pronóstico de ventas para evitar sobrantes que se deterioren. 
 
-          .col-12.col-md-6.col-lg-4
+          .col-12.col-md-6.col-lg-4.order-1.order-md-1.order-lg-2.mb-4.mb-lg-0
             figure
               img(src="@/assets/curso/tema4/img09.png", data-aos="zoom-in")
 
@@ -141,7 +141,7 @@
       .row.justify-content-center.mb-0
         .col-md-12.col-lg-10
           .row.justify-content-center.align-items-center.bg-color-11
-            .col-md-6.col-lg-3.mb-3.mb-lg-0
+            .col-md-6.col-lg-3.mb-3.mb-lg-0.mt-4.mt-lg-0
               figure
                 img(src="@/assets/curso/tema4/img10.svg", data-aos="zoom-in") 
             .col-lg-9
@@ -163,7 +163,7 @@
           .col-md-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta.bg-fondo-2.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-8.col-md-12.col-lg-12
+                .col-12.col-md-12.col-lg-12
                   figure
                     img(src="@/assets/curso/tema4/img11.png", alt="Icono")
               p.text-center Las tareas que requieren más tiempo o procesos lentos (como cocinar un caldo o marinar una carne) se inician primero.
@@ -171,7 +171,7 @@
           .col-md-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta.bg-fondo-2.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-8.col-md-12.col-lg-12
+                .col-12.col-md-12.col-lg-12
                   figure
                     img(src="@/assets/curso/tema4/img12.png", alt="Icono")
               p.text-center Luego vienen las tareas críticas para múltiples platos (preparar bases de salsas).
@@ -179,7 +179,7 @@
           .col-md-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta.bg-fondo-2.p-4.h-100
               .row.justify-content-center.mb-3
-                .col-8.col-md-12.col-lg-12
+                .col-12.col-md-12.col-lg-12
                   figure
                     img(src="@/assets/curso/tema4/img13.png", alt="Icono")
               p.text-center Las tareas más rápidas y específicas (cortar hierbas, preparar aderezos).

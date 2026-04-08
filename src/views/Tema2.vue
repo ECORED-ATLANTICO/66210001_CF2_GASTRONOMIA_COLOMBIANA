@@ -80,7 +80,7 @@
                     p Que consiste en cortar el ingrediente en tiras finas y alargadas, con un grosor aproximado de 1-2 mm y una longitud de 4-5 cm. Es ideal para verduras en sopas claras, salteados o como guarnición (Ej.: zanahoria en julianas para una sopa de pasta).
                   .col-lg-7
                     figure
-                      img(src="@/assets/curso/tema2/img07.png", data-aos="zoom-in")
+                      img(src="@/assets/curso/tema2/img07.png")
 
               div(titulo="La <em>brunoise</em>").p-4
                 .row.justify-content-center.align-items-center
@@ -88,7 +88,7 @@
                     p Es un corte en pequeños dados de 1 a 2 mm de lado, obtenida primero cortando en juliana fina y luego transversalmente. Se utiliza para bases de sabor que deben integrarse completamente y casi fundirse, como en un sofrito o un relleno.
                   .col-lg-7
                     figure
-                      img(src="@/assets/curso/tema2/img08.png", data-aos="zoom-in")
+                      img(src="@/assets/curso/tema2/img08.png")
                     
               div(titulo="La <em>chiffonade</em>").p-4
                 .row.justify-content-center.align-items-center
@@ -96,7 +96,7 @@
                     p Es una técnica específica para hojas verdes (lechuga, espinaca, hierbas aromáticas) que consiste en apilarlas, enrollarlas y cortarlas transversalmente en tiras muy finas, logrando un efecto de "cintas".
                   .col-lg-7
                     figure
-                      img(src="@/assets/curso/tema2/img09.png", data-aos="zoom-in")
+                      img(src="@/assets/curso/tema2/img09.png")
                     
     .container
       .row.justify-content-center.mb-0
@@ -121,7 +121,7 @@
     .bg-full-width.bg-fondo-5.tarjeta.mb-5
       .p-sm-0.py-md-4.p-lg-4.px-lg-2
         SlyderA(tipo="b").bg-color-white.p-0.p-lg-4.tarjeta
-          .row.justify-content-center.align-items-center.p-2
+          .row.justify-content-center.align-items-center.p-4.p-lg-2
             .col-lg-5.mb-4.mb-lg-0.mb-3.mb-lg-0
               p.mb-0(data-aos="fade-right") El fileteado es el proceso de extraer los lomos o filetes libres de espinas, piel y grasa excesiva de un pescado o de una pieza de carne. En el contexto colombiano, es una técnica crucial para preparar pescados como la mojarra para fritura o el bagre para viudo, donde la presentación de un filete limpio y entero es fundamental. 
 
@@ -129,7 +129,7 @@
               figure
                 img(src="@/assets/curso/tema2/img11.png", alt="Fileteado").mx-auto
 
-          .row.justify-content-center.align-items-center.p-2
+          .row.justify-content-center.align-items-center.p-4.p-lg-2
             .col-lg-5.mb-4.mb-lg-0.mb-3.mb-lg-0
               p.mb-0(data-aos="fade-right") El deshuesado consiste en retirar los huesos de una pieza de carne o ave sin desestructurarla, permitiendo rellenarla, enrollarla o servirla más fácilmente. Es común en preparaciones como el rollo de pechuga relleno o para obtener carne limpia para guisos.
 
@@ -137,7 +137,7 @@
               figure
                 img(src="@/assets/curso/tema2/img12.png", alt="Deshuesado").mx-auto
 
-          .row.justify-content-center.align-items-center.p-2
+          .row.justify-content-center.align-items-center.p-4.p-lg-2
             .col-lg-5.mb-4.mb-lg-0.mb-3.mb-lg-0
               p.mb-0(data-aos="fade-right") El mechado es una técnica de cocción lenta donde se insertan tiras de otros ingredientes (tocino, zanahoria, ajo) en incisiones practicadas en una pieza grande y magra de carne (como la sobrebarriga), con el fin de aportar sabor, jugosidad y grasa durante la cocción prolongada. 
 

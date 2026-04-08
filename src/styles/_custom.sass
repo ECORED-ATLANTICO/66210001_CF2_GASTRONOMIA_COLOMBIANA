@@ -59,7 +59,7 @@
 
 ///////////CUSTOM BANNER PRINCIPAL E INTERNO/////////////
 .banner-principal .tarjeta
-  background-color: #FFE76D
+  background-color: #fff0aa
   background-position: left 50% !important
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
@@ -490,11 +490,17 @@ a, button, div
 
 .tabla-a th
   font-size: 14px
-  word-break: break-word
 .tabla-a thead
   background-color: #FFEDEF
 .tabla-a.color-acento-contenido thead
   border-color: #FFB8C1
+
+table
+  table-layout: auto !important
+
+.tabla-a td, .tabla-a th
+  word-break: keep-all !important
+  overflow-wrap: break-word !important
 
 .border-radius-20
   border-radius: 20px
