@@ -166,7 +166,8 @@
                 .col-12.col-md-12.col-lg-12
                   figure
                     img(src="@/assets/curso/tema4/img11.png", alt="Icono")
-              p.text-center Las tareas que requieren más tiempo o procesos lentos (como cocinar un caldo o marinar una carne) se inician primero.
+              p.text-center.mb-2 #[b Tareas de mayor tiempo:]
+              p.text-center.mb-0 Las tareas que requieren más tiempo o procesos lentos (como cocinar un caldo o marinar una carne) se inician primero.
         
           .col-md-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta.bg-fondo-2.p-4.h-100
@@ -174,7 +175,8 @@
                 .col-12.col-md-12.col-lg-12
                   figure
                     img(src="@/assets/curso/tema4/img12.png", alt="Icono")
-              p.text-center Luego vienen las tareas críticas para múltiples platos (preparar bases de salsas).
+              p.text-center.mb-2 #[b Tareas críticas:]
+              p.text-center.mb-0 Luego vienen las tareas críticas para múltiples platos (preparar bases de salsas).
               
           .col-md-6.col-lg-4.mb-4.mb-lg-0
             .tarjeta.bg-fondo-2.p-4.h-100
@@ -182,7 +184,8 @@
                 .col-12.col-md-12.col-lg-12
                   figure
                     img(src="@/assets/curso/tema4/img13.png", alt="Icono")
-              p.text-center Las tareas más rápidas y específicas (cortar hierbas, preparar aderezos).
+              p.text-center.mb-2 #[b Tareas rápidas:]
+              p.text-center.mb-0 Las tareas más rápidas y específicas (cortar hierbas, preparar aderezos).
                   
     .row.justify-content-center.mb-5
       .col-md-12.col-lg-8

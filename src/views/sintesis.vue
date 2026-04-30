@@ -16,7 +16,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="El Componente Formativo 02 proporciona al aprendiz un sistema de conocimiento integral que articula la interpretación de recetas, el dominio de técnicas de corte y cocción, la filosofía del mise en place y los principios del protocolo en eventos. Esta estructura progresiva, que va de lo analítico a lo operativo y de lo individual a lo social, capacita al futuro profesional no solo para ejecutar con precisión los sabores de la tradición colombiana, sino para organizar su trabajo con eficiencia y desempeñarse con la distinción que el servicio gastronómico profesional exige, garantizando así la calidad y la excelencia en cada experiencia culinaria.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

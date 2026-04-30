@@ -182,7 +182,7 @@
                 img(src="@/assets/curso/tema3/img15.png", alt="Carne a la parrilla")
               .bg-color-5.p-4.flex-grow-1
                 h4.mb-3 Al horno
-                p.mb-0 Es la cocción por convección de aire caliente que rodea al alimento dentro de un espacio cerrado (horno). El calor seco y constante permite una cocción pareja y el desarrollo de reacciones de dorado y caramelización en la superficie. Es fundamental para panes, pasteles, y en la cocina salada para platos como la sobrebarriga al horno, las papas al horno o un pastel de pollo. 
+                p.mb-0 Hornear es la cocción por convección de aire caliente que rodea al alimento dentro de un espacio cerrado (horno). El calor seco y constante permite una cocción pareja y el desarrollo de reacciones de dorado y caramelización en la superficie. Es fundamental para panes, pasteles, y en la cocina salada para platos como la sobrebarriga al horno, las papas al horno o un pastel de pollo. 
 
           .col-md-12.col-lg-6.mb-4.mb-lg-0
             .tarjeta-c.h-100.d-flex.flex-column
@@ -190,7 +190,7 @@
                 img(src="@/assets/curso/tema3/img16.png", alt="Procesos térmicos")
               .bg-color-5.p-4.flex-grow-1
                 h4.mb-3 La parrilla
-                p.mb-0 Es una técnica específica que aplica un calor intenso y directo (generalmente de la parrilla superior del horno o de un soplete) sobre la superficie de un alimento, con el objetivo de dorar y formar una costra crujiente, generalmente sobre una capa de queso, pan rallado o bechamel. El cerdo en salsa de champiñones gratinado es un ejemplo de su aplicación. 
+                p.mb-0 Gratinar es una técnica específica que aplica un calor intenso y directo (generalmente de la parrilla superior del horno o de un soplete) sobre la superficie de un alimento, con el objetivo de dorar y formar una costra crujiente, generalmente sobre una capa de queso, pan rallado o bechamel. El cerdo en salsa de champiñones gratinado es un ejemplo de su aplicación. 
     
     .row.justify-content-center.mb-3
       .col-md-12.col-lg-10
@@ -200,7 +200,7 @@
               img(src="@/assets/curso/tema3/img17.png", data-aos="fade-right")
           .col-lg-9.order-1.order-md-2.order-lg-2.mb-4.mb-lg-0
             h4.mb-3 Asado a la sal
-            p.mb-0(data-aos="fade-right") es un término amplio que puede referirse a la cocción por radiación directa de una fuente de calor (asador, parrilla, brasas) o por convección de aire caliente en horno para piezas grandes. En su versión más emblemática, como el asado a la llanera, el alimento (generalmente una pieza grande de carne) se cuece lentamente a una distancia prudente de las brasas, girándose para lograr una costra sellada y un interior jugoso y cocido uniformemente. Este método imparte un sabor ahumado único y es central en la identidad gastronómica de la Orinoquía.
+            p.mb-0(data-aos="fade-right") Asar es un término amplio que puede referirse a la cocción por radiación directa de una fuente de calor (asador, parrilla, brasas) o por convección de aire caliente en horno para piezas grandes. En su versión más emblemática, como el asado a la llanera, el alimento (generalmente una pieza grande de carne) se cuece lentamente a una distancia prudente de las brasas, girándose para lograr una costra sellada y un interior jugoso y cocido uniformemente. Este método imparte un sabor ahumado único y es central en la identidad gastronómica de la Orinoquía.
 
     separador
 

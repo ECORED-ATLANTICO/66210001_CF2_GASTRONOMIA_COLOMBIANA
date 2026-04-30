@@ -217,7 +217,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA2_66210001_DU.zip',
+        download: 'downloads/CFA2_66210001_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -436,12 +436,12 @@ export default {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
             'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
-          centro: 'Dirección General',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de la línea de producción',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -451,12 +451,12 @@ export default {
         {
           nombre: 'Yina Paola Castro Zarate',
           cargo: 'Experta temática',
-          centro: 'Centro de Comercio y Servicios -Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'María Fernanda Morales Angulo',
           cargo: 'Evaluador instruccional',
-          centro: 'Centro de Comercio y Servicios -Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -466,17 +466,17 @@ export default {
         {
           nombre: 'Carmen Alicia Martínez Torres',
           cargo: 'Diseñador web',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Álvaro Guillermo Araújo Angarita',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
@@ -486,22 +486,22 @@ export default {
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Laura Daniela Burgos Rueda',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Jonathan Adié Villafañe',
           cargo: 'Validador y vinculador de recursos digitales',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
           cargo: 'Validador y vinculador de recursos digitales',
-          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
