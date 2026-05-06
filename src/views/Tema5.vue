@@ -114,24 +114,62 @@
     separador
 
     .row.justify-content-center.mb-5
-      .col-md-12.col-lg-10
+      .col-md-12.col-lg-12
         #t_5_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 5.4 El rol del anfitrión y la secuencia de servicio en un evento formal
 
-        p.mb-0El El anfitrión (que puede ser el cliente o un representante de la empresa organizadora) es el director de la ceremonia, y el personal de servicio actúa para facilitar su rol. El profesional gastronómico debe conocer la secuencia de servicio estándar para poder anticiparse y ejecutarla sin necesidad de órdenes constantes.
+        p.mb-0 El anfitrión (que puede ser el cliente o un representante de la empresa organizadora) es el director de la ceremonia, y el personal de servicio actúa para facilitar su rol. El profesional gastronómico debe conocer la secuencia de servicio estándar para poder anticiparse y ejecutarla sin necesidad de órdenes constantes.
   
-  
-    .row.justify-content-center.mb-4
-      .col-md-12.col-lg-10
-        .titulo-sexto.color-acento-contenido
-          h5 
-            b Figura 5.
-          span Secuencia básica para una cena formal 
-        figure.mb-0
-          img.mb-3(src="@/assets/curso/tema5/img09.svg", alt="La figura 5 describe el orden lógico de la secuencia básica para una cena formal.").d-none.d-lg-block.d-md-block
-          img.mb-3(src="@/assets/curso/tema5/img10.svg", alt="La figura 5 describe el orden lógico de la secuencia básica para una cena formal.").d-block.d-lg-none.d-md-none
-        .bg-color-2.p-3
-          p.mb-0.text-small Nota. SENA, (2026).
+    .row.justify-content-center.mb-5
+      SlyderF(columnas="col-lg-6 col-xl-4")
+        .tarjeta.bg-fondo-1.p-4
+          .row.justify-content-center.mb-3
+            .col-8
+              img(src='@/assets/curso/tema5/img15.svg' alt='', style="width: 100px;").mx-auto
+          p.text-center #[b Paso 1:] Aperitivo y bienvenida (servidos generalmente en un área diferente al comedor). Llamado a la mesa y acomodación de los invitados.
+
+        .tarjeta.bg-fondo-1.p-4
+          .row.justify-content-center.mb-3
+            .col-8
+              img(src='@/assets/curso/tema5/img15.svg' alt='', style="width: 100px;").mx-auto
+          p.text-center #[b Paso 2.] Servicio de pan y agua.
+
+        .tarjeta.bg-fondo-1.p-4
+          .row.justify-content-center.mb-3
+            .col-8
+              img(src='@/assets/curso/tema5/img15.svg' alt='', style="width: 100px;").mx-auto
+          p.text-center #[b Paso 3.] Servicio del primer plato (entrada/frío).
+
+        .tarjeta.bg-fondo-1.p-4
+          .row.justify-content-center.mb-3
+            .col-8
+              img(src='@/assets/curso/tema5/img15.svg' alt='', style="width: 100px;").mx-auto
+          p.text-center #[b Paso 4.] Retirada de platos y cubiertos usados (siempre por la derecha del comensal, y nunca apilando platos frente a él).
+
+        .tarjeta.bg-fondo-1.p-4
+          .row.justify-content-center.mb-3
+            .col-8
+              img(src='@/assets/curso/tema5/img15.svg' alt='', style="width: 100px;").mx-auto
+          p.text-center #[b Paso 5.] Servicio del plato principal.
+
+        .tarjeta.bg-fondo-1.p-4
+          .row.justify-content-center.mb-3
+            .col-8
+              img(src='@/assets/curso/tema5/img15.svg' alt='', style="width: 100px;").mx-auto
+          p.text-center #[b Paso 6.] Servicio y retirada de la mesa para el postre (incluye barrer migajas con un recogemigas).
+
+        .tarjeta.bg-fondo-1.p-4
+          .row.justify-content-center.mb-3
+            .col-8
+              img(src='@/assets/curso/tema5/img15.svg' alt='', style="width: 100px;").mx-auto
+          p.text-center #[b Paso 7.] Servicio del postre, café e infusiones.
+
+        .tarjeta.bg-fondo-1.p-4
+          .row.justify-content-center.mb-3
+            .col-8
+              img(src='@/assets/curso/tema5/img15.svg' alt='', style="width: 100px;").mx-auto
+          p.text-center #[b Paso 8.] Servicio de digestivos o licores. Durante todo este proceso, el servicio de bebidas (vino, agua) debe estar sincronizado, llenando las copas antes de que estén vacías, pero sin ser intrusivo.
+
 
     .row.justify-content-center.mb-3
       .col-md-12.col-lg-10
