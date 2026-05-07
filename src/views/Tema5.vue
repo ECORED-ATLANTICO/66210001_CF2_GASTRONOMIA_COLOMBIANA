@@ -126,7 +126,7 @@
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/tema5/img15.svg' alt='', style="width: 100px;").mx-auto
-          p.text-center #[b Paso 1:] Aperitivo y bienvenida (servidos generalmente en un área diferente al comedor). Llamado a la mesa y acomodación de los invitados.
+          p.text-center #[b Paso 1.] Aperitivo y bienvenida (servidos generalmente en un área diferente al comedor). Llamado a la mesa y acomodación de los invitados.
 
         .tarjeta.bg-fondo-1.p-4
           .row.justify-content-center.mb-3
